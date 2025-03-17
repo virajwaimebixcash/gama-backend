@@ -23,10 +23,7 @@ const loadTranslation = (lang) => {
     console.error(err);
 
     const defaultTranslations = JSON.parse(
-      readFileSync(
-        join(__dirname, "translations", `${process.env.DEFAULT_LANG}.json`),
-        "utf8"
-      )
+      readFileSync(join(__dirname, "translations", `en.json`), "utf8")
     );
     return defaultTranslations;
   }
@@ -34,12 +31,12 @@ const loadTranslation = (lang) => {
 
 app.get("/api/translations/:lng", (req, res) => {
   const { lng } = req?.params;
-  const translations = loadTranslation(lng);
+  const translations = loadTranslation(lng !== "dev" && lng);
   return res.json(translations);
 });
 
 app.get("/api/lng", (req, res) => {
-  return res.json({ lng: "th" });
+  return res.json({ lng: "id" });
 });
 
 app.listen(PORT, () => {
