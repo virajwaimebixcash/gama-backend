@@ -274,5 +274,6 @@
   "Delete Table": "ลบตาราง",
   "Move Table Up": "ย้ายตารางขึ้น",
   "Move Table Down": "ย้ายตารางลง",
-  "Add Row to": "เพิ่มแถวไปที่"
+  "Add Row to": "เพิ่มแถวไปที่",
+  "Edit Properties": "แก้ไขคุณสมบัติ"
 }
