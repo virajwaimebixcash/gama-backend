@@ -323,5 +323,7 @@
   "Enter the Group name": "Nhập tên nhóm",
   "Group Name Header": "Tiêu đề tên nhóm",
   "Enter the Group Name Header": "Nhập tiêu đề tên nhóm",
-  "Group Hide": "Ẩn nhóm"
+  "Group Hide": "Ẩn nhóm",
+  "Order Configuration Updated Successfully.": "Cập nhật cấu hình đơn hàng thành công",
+  "Order Configurations Saved Successfully.": "Lưu cấu hình đơn hàng thành công"
 }

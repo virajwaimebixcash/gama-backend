@@ -323,5 +323,7 @@
   "Enter the Group name": "กรอกชื่อกลุ่ม",
   "Group Name Header": "หัวข้อชื่อกลุ่ม",
   "Enter the Group Name Header": "กรอกหัวข้อชื่อกลุ่ม",
-  "Group Hide": "ซ่อนกลุ่ม"
+  "Group Hide": "ซ่อนกลุ่ม",
+  "Order Configuration Updated Successfully.": "อัปเดตการตั้งค่าคำสั่งซื้อสำเร็จ",
+  "Order Configurations Saved Successfully.": "บันทึกการตั้งค่าคำสั่งซื้อสำเร็จ"
 }

@@ -323,5 +323,7 @@
   "Enter the Group name": "أدخل اسم المجموعة",
   "Group Name Header": "رأس اسم المجموعة",
   "Enter the Group Name Header": "أدخل رأس اسم المجموعة",
-  "Group Hide": "إخفاء المجموعة"
+  "Group Hide": "إخفاء المجموعة",
+  "Order Configuration Updated Successfully.": "تم تحديث تكوين الطلب بنجاح",
+  "Order Configurations Saved Successfully.": "تم حفظ تكوينات الطلب بنجاح"
 }

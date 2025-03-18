@@ -323,5 +323,7 @@
   "Enter the Group name": "Enter the Group Name",
   "Group Name Header": "Group Name Header",
   "Enter the Group Name Header": "Enter the Group Name Header",
-  "Group Hide": "Group Hide"
+  "Group Hide": "Group Hide",
+  "Order Configuration Updated Successfully.": "Order Configuration Updated Successfully",
+  "Order Configurations Saved Successfully.": "Order Configurations Saved Successfully"
 }

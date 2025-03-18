@@ -323,5 +323,7 @@
   "Enter the Group name": "Masukkan Nama Grup",
   "Group Name Header": "Header Nama Grup",
   "Enter the Group Name Header": "Masukkan Header Nama Grup",
-  "Group Hide": "Sembunyikan Grup"
+  "Group Hide": "Sembunyikan Grup",
+  "Order Configuration Updated Successfully.": "Konfigurasi Pesanan Berhasil Diperbarui",
+  "Order Configurations Saved Successfully.": "Konfigurasi Pesanan Berhasil Disimpan"
 }
