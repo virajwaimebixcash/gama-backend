@@ -308,6 +308,20 @@
   "DashBoard": "Bảng điều khiển",
   "dashboard_screen": "Màn hình Bảng điều khiển",
   "faceId/TouchIdenabled": "FaceId/TouchId đã bật",
-  "faceId/TouchIddisaled": "FaceId/TouchId đã tắt"
-
+  "faceId/TouchIddisaled": "FaceId/TouchId đã tắt",
+  "Please wait...": "Vui lòng chờ...",
+  "User Defined Field Configurator updated Successfully.": "Trình cấu hình Trường Người dùng đã được cập nhật thành công.",
+  "User Defined Field Configurator Saved Successfully.": "Trình cấu hình Trường Người dùng đã được lưu thành công.",
+  "Detail View Configuration Saved Successfully": "Cấu hình Xem Chi tiết đã được lưu thành công",
+  "Group name is required.": "Tên nhóm là bắt buộc.",
+  "Group Added Successfully": "Nhóm đã được thêm thành công",
+  "Groups Sequence Updated Successfully": "Trình tự nhóm đã được cập nhật thành công",
+  "Group Deleted Successfully": "Nhóm đã bị xóa thành công",
+  "Group Updated Successfully": "Nhóm đã được cập nhật thành công",
+  "Quick View Configuration Saved Successfully": "Cấu hình Xem Nhanh đã được lưu thành công",
+  "Group Name": "Tên nhóm",
+  "Enter the Group name": "Nhập tên nhóm",
+  "Group Name Header": "Tiêu đề tên nhóm",
+  "Enter the Group Name Header": "Nhập tiêu đề tên nhóm",
+  "Group Hide": "Ẩn nhóm"
 }

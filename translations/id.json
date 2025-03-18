@@ -308,5 +308,20 @@
   "DashBoard": "Dasbor",
   "dashboard_screen": "Layar Dasbor",
   "faceId/TouchIdenabled": "FaceId/TouchId Diaktifkan",
-  "faceId/TouchIddisaled": "FaceId/TouchId Dinonaktifkan"
+  "faceId/TouchIddisaled": "FaceId/TouchId Dinonaktifkan",
+  "Please wait...": "Tunggu sebentar...",
+  "User Defined Field Configurator updated Successfully.": "Pengonfigurasi Bidang yang Ditentukan Pengguna berhasil diperbarui.",
+  "User Defined Field Configurator Saved Successfully.": "Pengonfigurasi Bidang yang Ditentukan Pengguna berhasil disimpan.",
+  "Detail View Configuration Saved Successfully": "Konfigurasi Tampilan Detail berhasil disimpan",
+  "Group name is required.": "Nama grup diperlukan.",
+  "Group Added Successfully": "Grup berhasil ditambahkan",
+  "Groups Sequence Updated Successfully": "Urutan Grup berhasil diperbarui",
+  "Group Deleted Successfully": "Grup berhasil dihapus",
+  "Group Updated Successfully": "Grup berhasil diperbarui",
+  "Quick View Configuration Saved Successfully": "Konfigurasi Tampilan Cepat berhasil disimpan",
+  "Group Name": "Nama Grup",
+  "Enter the Group name": "Masukkan Nama Grup",
+  "Group Name Header": "Header Nama Grup",
+  "Enter the Group Name Header": "Masukkan Header Nama Grup",
+  "Group Hide": "Sembunyikan Grup"
 }
