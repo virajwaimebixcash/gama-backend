@@ -36,7 +36,7 @@ app.get("/api/translations/:lng", (req, res) => {
 });
 
 app.get("/api/lng", (req, res) => {
-  return res.json({ lng: "en" });
+  return res.json({ lng: "th" });
 });
 
 app.listen(PORT, () => {
