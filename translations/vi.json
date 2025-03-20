@@ -564,5 +564,18 @@
   "Showing": "Đang hiển thị",
   "Update Cart successfully. ": "Cập nhật giỏ hàng thành công.",
   "Removed Cart successfully. ": "Xóa giỏ hàng thành công.",
-  "Min. Redemption Order Value": "Giá trị tối thiểu của lệnh mua lại"
+  "Min. Redemption Order Value": "Giá trị tối thiểu của lệnh mua lại",
+  "Mobile Number is required": "Số điện thoại di động là bắt buộc",
+  "Please Enter OTP": "Vui lòng nhập OTP",
+  "Please Enter Valid OTP": "Vui lòng nhập OTP hợp lệ",
+  "User already logged in on another device": "Người dùng đã đăng nhập trên thiết bị khác",
+  "Mutual": "Tương hỗ",
+  "Planning": "Lập kế hoạch",
+  "Goal": "Mục tiêu",
+  "CRM": "CRM",
+  "Order": "Đơn hàng",
+  "Futura": "Futura",
+  "Reports": "Báo cáo",
+  "Tools": "Công cụ",
+  "Setup": "Cài đặt"
 }

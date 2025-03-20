@@ -564,5 +564,18 @@
   "Showing": "Menampilkan",
   "Update Cart successfully.": "Berhasil memperbarui keranjang.",
   "Removed Cart successfully.": "Berhasil menghapus keranjang.",
-  "Min. Redemption Order Value": "Nilai minimum pesanan penebusan"
+  "Min. Redemption Order Value": "Nilai minimum pesanan penebusan",
+  "Mobile Number is required": "Nomor Ponsel diperlukan",
+  "Please Enter OTP": "Silakan Masukkan OTP",
+  "Please Enter Valid OTP": "Silakan Masukkan OTP yang Valid",
+  "User already logged in on another device": "Pengguna sudah masuk di perangkat lain",
+  "Mutual": "Mutual",
+  "Planning": "Perencanaan",
+  "Goal": "Tujuan",
+  "CRM": "CRM",
+  "Order": "Pesanan",
+  "Futura": "Futura",
+  "Reports": "Laporan",
+  "Tools": "Alat",
+  "Setup": "Pengaturan"
 }
