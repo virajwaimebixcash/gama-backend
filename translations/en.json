@@ -558,5 +558,11 @@
   "Start Date": "Start Date",
   "End Date": "End Date",
   "Monthly": "Monthly",
-  "Physical": "Physical"
+  "Physical": "Physical",
+  "Previous": "Previous",
+  "Next": "Next",
+  "Showing": "Showing",
+  "Update Cart successfully.": "Update Cart successfully.",
+  "Removed Cart successfully.": "Removed Cart successfully.",
+  "Min. Redemption Order Value": "Min. Redemption Order Value"
 }

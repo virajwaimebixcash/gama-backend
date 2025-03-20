@@ -558,5 +558,11 @@
   "Start Date": "วันที่เริ่มต้น",
   "End Date": "วันที่สิ้นสุด",
   "Monthly": "รายเดือน",
-  "Physical": "ทางกายภาพ"
+  "Physical": "ทางกายภาพ",
+  "Previous": "ก่อนหน้า",
+  "Next": "ถัดไป",
+  "Showing": "กำลังแสดง",
+  "Update Cart successfully.": "อัปเดตรถเข็นสำเร็จ",
+  "Removed Cart successfully.": "ลบรถเข็นสำเร็จ",
+  "Min. Redemption Order Value": "มูลค่าคำสั่งไถ่ถอนขั้นต่ำ"
 }

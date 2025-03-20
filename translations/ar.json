@@ -558,5 +558,11 @@
   "Start Date": "تاريخ البدء",
   "End Date": "تاريخ الانتهاء",
   "Monthly": "شهري",
-  "Physical": "فعلي"
+  "Physical": "فعلي",
+  "Previous": "السابق",
+  "Next": "التالي",
+  "Showing": "عرض",
+  "Update Cart successfully.": "تم تحديث سلة التسوق بنجاح.",
+  "Removed Cart successfully.": "تمت إزالة سلة التسوق بنجاح.",
+  "Min. Redemption Order Value": "الحد الأدنى لقيمة طلب الاسترداد"
 }

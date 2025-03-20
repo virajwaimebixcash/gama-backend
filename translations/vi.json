@@ -558,5 +558,11 @@
   "Start Date": "Ngày bắt đầu",
   "End Date": "Ngày kết thúc",
   "Monthly": "Hàng tháng",
-  "Physical": "Vật lý"
+  "Physical": "Vật lý",
+  "Previous": "Trước",
+  "Next": "Tiếp theo",
+  "Showing": "Đang hiển thị",
+  "Update Cart successfully. ": "Cập nhật giỏ hàng thành công.",
+  "Removed Cart successfully. ": "Xóa giỏ hàng thành công.",
+  "Min. Redemption Order Value": "Giá trị tối thiểu của lệnh mua lại"
 }

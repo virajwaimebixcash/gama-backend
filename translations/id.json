@@ -558,5 +558,11 @@
   "Start Date": "Tanggal Mulai",
   "End Date": "Tanggal Akhir",
   "Monthly": "Bulanan",
-  "Physical": "Fisik"
+  "Physical": "Fisik",
+  "Previous": "Sebelumnya",
+  "Next": "Berikutnya",
+  "Showing": "Menampilkan",
+  "Update Cart successfully.": "Berhasil memperbarui keranjang.",
+  "Removed Cart successfully.": "Berhasil menghapus keranjang.",
+  "Min. Redemption Order Value": "Nilai minimum pesanan penebusan"
 }
