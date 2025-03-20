@@ -558,5 +558,18 @@
   "Start Date": "Start Date",
   "End Date": "End Date",
   "Monthly": "Monthly",
-  "Physical": "Physical"
+  "Physical": "Physical",
+  "Mobile Number is required": "Mobile Number is required",
+  "Please Enter OTP": "Please Enter OTP",
+  "Please Enter Valid OTP": "Please Enter Valid OTP",
+  "User already logged in on another device": "User already logged in on another device",
+  "Mutual": "Mutual",
+  "Planning": "Planning",
+  "Goal": "Goal",
+  "CRM": "CRM",
+  "Order": "Order",
+  "Futura": "Futura",
+  "Reports": "Reports",
+  "Tools": "Tools",
+  "Setup": "Setup"
 }

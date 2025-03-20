@@ -558,5 +558,18 @@
   "Start Date": "วันที่เริ่มต้น",
   "End Date": "วันที่สิ้นสุด",
   "Monthly": "รายเดือน",
-  "Physical": "ทางกายภาพ"
+  "Physical": "ทางกายภาพ",
+  "Mobile Number is required": "หมายเลขโทรศัพท์มือถือจำเป็นต้องใช้",
+  "Please Enter OTP": "กรุณาใส่ OTP",
+  "Please Enter Valid OTP": "กรุณาใส่ OTP ที่ถูกต้อง",
+  "User already logged in on another device": "ผู้ใช้เข้าสู่ระบบแล้วในอุปกรณ์อื่น",
+  "Mutual": "ร่วม",
+  "Planning": "การวางแผน",
+  "Goal": "เป้าหมาย",
+  "CRM": "CRM",
+  "Order": "คำสั่ง",
+  "Futura": "ฟูตูรา",
+  "Reports": "รายงาน",
+  "Tools": "เครื่องมือ",
+  "Setup": "ตั้งค่า"
 }

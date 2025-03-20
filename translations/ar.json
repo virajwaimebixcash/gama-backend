@@ -558,5 +558,18 @@
   "Start Date": "تاريخ البدء",
   "End Date": "تاريخ الانتهاء",
   "Monthly": "شهري",
-  "Physical": "فعلي"
+  "Physical": "فعلي",
+  "Mobile Number is required": "رقم الهاتف المحمول مطلوب",
+  "Please Enter OTP": "الرجاء إدخال OTP",
+  "Please Enter Valid OTP": "الرجاء إدخال OTP صالح",
+  "User already logged in on another device": "المستخدم مسجل الدخول بالفعل على جهاز آخر",
+  "Mutual": "متبادل",
+  "Planning": "تخطيط",
+  "Goal": "هدف",
+  "CRM": "إدارة علاقات العملاء",
+  "Order": "طلب",
+  "Futura": "فوتورا",
+  "Reports": "تقارير",
+  "Tools": "أدوات",
+  "Setup": "إعداد"
 }

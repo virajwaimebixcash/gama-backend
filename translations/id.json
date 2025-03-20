@@ -558,5 +558,18 @@
   "Start Date": "Tanggal Mulai",
   "End Date": "Tanggal Akhir",
   "Monthly": "Bulanan",
-  "Physical": "Fisik"
+  "Physical": "Fisik",
+  "Mobile Number is required": "Nomor Ponsel diperlukan",
+  "Please Enter OTP": "Silakan Masukkan OTP",
+  "Please Enter Valid OTP": "Silakan Masukkan OTP yang Valid",
+  "User already logged in on another device": "Pengguna sudah masuk di perangkat lain",
+  "Mutual": "Mutual",
+  "Planning": "Perencanaan",
+  "Goal": "Tujuan",
+  "CRM": "CRM",
+  "Order": "Pesanan",
+  "Futura": "Futura",
+  "Reports": "Laporan",
+  "Tools": "Alat",
+  "Setup": "Pengaturan"
 }

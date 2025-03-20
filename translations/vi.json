@@ -558,5 +558,19 @@
   "Start Date": "Ngày bắt đầu",
   "End Date": "Ngày kết thúc",
   "Monthly": "Hàng tháng",
-  "Physical": "Vật lý"
+  "Physical": "Vật lý",
+
+  "Mobile Number is required": "Số điện thoại di động là bắt buộc",
+  "Please Enter OTP": "Vui lòng nhập OTP",
+  "Please Enter Valid OTP": "Vui lòng nhập OTP hợp lệ",
+  "User already logged in on another device": "Người dùng đã đăng nhập trên thiết bị khác",
+  "Mutual": "Tương hỗ",
+  "Planning": "Lập kế hoạch",
+  "Goal": "Mục tiêu",
+  "CRM": "CRM",
+  "Order": "Đơn hàng",
+  "Futura": "Futura",
+  "Reports": "Báo cáo",
+  "Tools": "Công cụ",
+  "Setup": "Cài đặt"
 }
