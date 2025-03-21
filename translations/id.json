@@ -584,5 +584,6 @@
   "SWP Order Amount": "Jumlah Pesanan SWP",
   "SWP Folio Number": "Nomor Folio SWP",
   "SWP Mandate": "Mandat SWP",
-  "Stop": "Berhenti"
+  "Stop": "Berhenti",
+  "clear": "Bersihkan"
 }

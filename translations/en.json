@@ -584,5 +584,6 @@
   "SWP Order Amount": "SWP Order Amount",
   "SWP Folio Number": "SWP Folio Number",
   "SWP Mandate": "SWP Mandate",
-  "Stop": "Stop"
+  "Stop": "Stop",
+  "clear": "Clear"
 }

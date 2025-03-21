@@ -584,5 +584,6 @@
   "SWP Order Amount": "จำนวนคำสั่งซื้อ SWP",
   "SWP Folio Number": "หมายเลขโฟลิโอ SWP",
   "SWP Mandate": "คำสั่ง SWP",
-  "Stop": "หยุด"
+  "Stop": "หยุด",
+  "clear": "ล้าง"
 }

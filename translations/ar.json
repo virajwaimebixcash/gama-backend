@@ -584,5 +584,6 @@
   "SWP Order Amount": "مبلغ طلب SWP",
   "SWP Folio Number": "رقم Folio SWP",
   "SWP Mandate": "تفويض SWP",
-  "Stop": "إيقاف"
+  "Stop": "إيقاف",
+  "clear": "مسح"
 }

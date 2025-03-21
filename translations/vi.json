@@ -584,5 +584,6 @@
   "SWP Order Amount": "Số tiền đặt hàng SWP",
   "SWP Folio Number": "Số folio SWP",
   "SWP Mandate": "Ủy nhiệm SWP",
-  "Stop": "Dừng lại"
+  "Stop": "Dừng lại",
+  "clear": "Xóa"
 }
