@@ -578,5 +578,11 @@
   "Futura": "Futura",
   "Reports": "Laporan",
   "Tools": "Alat",
-  "Setup": "Pengaturan"
+  "Setup": "Pengaturan",
+  "SWP Status": "Status SWP",
+  "Date of SWP": "Tanggal SWP",
+  "SWP Order Amount": "Jumlah Pesanan SWP",
+  "SWP Folio Number": "Nomor Folio SWP",
+  "SWP Mandate": "Mandat SWP",
+  "Stop": "Berhenti"
 }

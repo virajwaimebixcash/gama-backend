@@ -578,5 +578,11 @@
   "Futura": "ฟูตูรา",
   "Reports": "รายงาน",
   "Tools": "เครื่องมือ",
-  "Setup": "ตั้งค่า"
+  "Setup": "ตั้งค่า",
+  "SWP Status": "สถานะ SWP",
+  "Date of SWP": "วันที่ SWP",
+  "SWP Order Amount": "จำนวนคำสั่งซื้อ SWP",
+  "SWP Folio Number": "หมายเลขโฟลิโอ SWP",
+  "SWP Mandate": "คำสั่ง SWP",
+  "Stop": "หยุด"
 }

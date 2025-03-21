@@ -578,5 +578,11 @@
   "Futura": "Futura",
   "Reports": "Báo cáo",
   "Tools": "Công cụ",
-  "Setup": "Cài đặt"
+  "Setup": "Cài đặt",
+  "SWP Status": "Trạng thái SWP",
+  "Date of SWP": "Ngày SWP",
+  "SWP Order Amount": "Số tiền đặt hàng SWP",
+  "SWP Folio Number": "Số folio SWP",
+  "SWP Mandate": "Ủy nhiệm SWP",
+  "Stop": "Dừng lại"
 }

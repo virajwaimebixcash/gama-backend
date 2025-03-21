@@ -578,5 +578,11 @@
   "Futura": "فوتورا",
   "Reports": "تقارير",
   "Tools": "أدوات",
-  "Setup": "إعداد"
+  "Setup": "إعداد",
+  "SWP Status": "حالة SWP",
+  "Date of SWP": "تاريخ SWP",
+  "SWP Order Amount": "مبلغ طلب SWP",
+  "SWP Folio Number": "رقم Folio SWP",
+  "SWP Mandate": "تفويض SWP",
+  "Stop": "إيقاف"
 }

@@ -578,5 +578,11 @@
   "Futura": "Futura",
   "Reports": "Reports",
   "Tools": "Tools",
-  "Setup": "Setup"
+  "Setup": "Setup",
+  "SWP Status": "SWP Status",
+  "Date of SWP": "Date of SWP",
+  "SWP Order Amount": "SWP Order Amount",
+  "SWP Folio Number": "SWP Folio Number",
+  "SWP Mandate": "SWP Mandate",
+  "Stop": "Stop"
 }
