@@ -447,5 +447,22 @@
   "image/jpg": "JPG Image",
   "Max Size (MB)": "Max Size (MB)",
   "Enter Max Size": "Enter Max Size",
-  "Something went wrong": "Something went wrong"
+  "Something went wrong": "Something went wrong",
+  "could_not_login":"Could not login",
+  "select_login_method":"Select Login Method",
+  "please_authenticate_to_proceed":"Please authenticate to proceed.",
+  "authentication_successful":"Authentication successful",
+  "Authenticated_Successfully":"Authenticated Successfully",
+  "Authentication_failed":"Authentication failed",
+  "biometric_not_available":"Biometrics not available on this device",
+  "please_enter_pin":"Please enter your pin to proceed.",
+  "unlock_with_fingerprint":"Unlock with Fingerprint",
+  "OR":"OR",
+  "enter_digit_pin":"Enter 4 Digit Login Pin",
+  "Welcome":"Welcome",
+  "Confirm":"Confirm",
+  "are_you_sure":"Are you sure you want to exit?",
+  "are_you_sure_logout":"Are you sure you want to Logout?"
+
+
 }
