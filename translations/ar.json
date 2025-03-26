@@ -822,5 +822,9 @@
   "Recurrence Count is required": "عدد التكرارات مطلوب",
   "Inflation Percentage is required": "نسبة التضخم مطلوبة",
   "Adjusted Value is required": "القيمة المعدلة مطلوبة",
-  "Goal updated successfully.": "تم تحديث الهدف بنجاح."
+  "Goal updated successfully.": "تم تحديث الهدف بنجاح.",
+  "Best Performing Funds": "أفضل الصناديق أداءً",
+  "If user click on the bookmark icon, then selected fund will be added on respective product watchlist.": "إذا نقر المستخدم على أيقونة الإشارة المرجعية، سيتم إضافة الصندوق المحدد إلى قائمة المراقبة الخاصة بالمنتج المعني.",
+  "If user click on the compare icon, then selected fund will be added to Compare.": "إذا نقر المستخدم على أيقونة المقارنة، سيتم إضافة الصندوق المحدد إلى المقارنة.",
+  "SecurityName": "اسم الأمان"
 }

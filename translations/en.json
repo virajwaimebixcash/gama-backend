@@ -822,5 +822,9 @@
   "Recurrence Count is required": "Recurrence Count is required",
   "Inflation Percentage is required": "Inflation Percentage is required",
   "Adjusted Value is required": "Adjusted Value is required",
-  "Goal updated successfully.": "Goal updated successfully."
+  "Goal updated successfully.": "Goal updated successfully.",
+  "Best Performing Funds": "Best Performing Funds",
+  "If user click on the bookmark icon, then selected fund will be added on respective product watchlist.": "If user click on the bookmark icon, then selected fund will be added on respective product watchlist.",
+  "If user click on the compare icon, then selected fund will be added to Compare.": "If user click on the compare icon, then selected fund will be added to Compare.",
+  "SecurityName": "Security Name"
 }

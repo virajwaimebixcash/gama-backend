@@ -822,5 +822,9 @@
   "Recurrence Count is required": "Số lần lặp lại là bắt buộc",
   "Inflation Percentage is required": "Tỷ lệ lạm phát là bắt buộc",
   "Adjusted Value is required": "Giá trị điều chỉnh là bắt buộc",
-  "Goal updated successfully.": "Cập nhật mục tiêu thành công."
+  "Goal updated successfully.": "Cập nhật mục tiêu thành công.",
+  "Best Performing Funds": "Quỹ hoạt động tốt nhất",
+  "If user click on the bookmark icon, then selected fund will be added on respective product watchlist.": "Nếu người dùng nhấp vào biểu tượng đánh dấu, quỹ được chọn sẽ được thêm vào danh sách theo dõi sản phẩm tương ứng.",
+  "If user click on the compare icon, then selected fund will be added to Compare.": "Nếu người dùng nhấp vào biểu tượng so sánh, quỹ được chọn sẽ được thêm vào phần So sánh.",
+  "SecurityName": "Tên bảo mật"
 }

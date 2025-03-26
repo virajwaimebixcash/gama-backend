@@ -822,5 +822,9 @@
   "Recurrence Count is required": "Jumlah pengulangan diperlukan",
   "Inflation Percentage is required": "Persentase inflasi diperlukan",
   "Adjusted Value is required": "Nilai yang disesuaikan diperlukan",
-  "Goal updated successfully.": "Tujuan berhasil diperbarui."
+  "Goal updated successfully.": "Tujuan berhasil diperbarui.",
+  "Best Performing Funds": "Reksa Dana Berkinerja Terbaik",
+  "If user click on the bookmark icon, then selected fund will be added on respective product watchlist.": "Jika pengguna mengklik ikon penanda, maka dana yang dipilih akan ditambahkan ke daftar pantau produk terkait.",
+  "If user click on the compare icon, then selected fund will be added to Compare.": "Jika pengguna mengklik ikon perbandingan, maka dana yang dipilih akan ditambahkan ke Perbandingan.",
+  "SecurityName": "Nama Keamanan"
 }

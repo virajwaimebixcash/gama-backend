@@ -822,5 +822,9 @@
   "Recurrence Count is required": "จำนวนครั้งที่เกิดซ้ำจำเป็นต้องระบุ",
   "Inflation Percentage is required": "เปอร์เซ็นต์เงินเฟ้อจำเป็นต้องระบุ",
   "Adjusted Value is required": "ค่าที่ปรับปรุงแล้วจำเป็นต้องระบุ",
-  "Goal updated successfully.": "อัปเดตเป้าหมายเรียบร้อยแล้ว."
+  "Goal updated successfully.": "อัปเดตเป้าหมายเรียบร้อยแล้ว.",
+  "Best Performing Funds": "กองทุนที่มีผลการดำเนินงานดีที่สุด",
+  "If user click on the bookmark icon, then selected fund will be added on respective product watchlist.": "หากผู้ใช้คลิกที่ไอคอนบุ๊กมาร์ก กองทุนที่เลือกจะถูกเพิ่มลงในรายการติดตามสินค้าที่เกี่ยวข้อง",
+  "If user click on the compare icon, then selected fund will be added to Compare.": "หากผู้ใช้คลิกที่ไอคอนเปรียบเทียบ กองทุนที่เลือกจะถูกเพิ่มลงในส่วนเปรียบเทียบ",
+  "SecurityName": "ชื่อความปลอดภัย"
 }
