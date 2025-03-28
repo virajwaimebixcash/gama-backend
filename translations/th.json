@@ -844,5 +844,22 @@
   "Best Performing Funds": "กองทุนที่มีผลการดำเนินงานดีที่สุด",
   "If user click on the bookmark icon, then selected fund will be added on respective product watchlist.": "หากผู้ใช้คลิกที่ไอคอนบุ๊กมาร์ก กองทุนที่เลือกจะถูกเพิ่มลงในรายการติดตามสินค้าที่เกี่ยวข้อง",
   "If user click on the compare icon, then selected fund will be added to Compare.": "หากผู้ใช้คลิกที่ไอคอนเปรียบเทียบ กองทุนที่เลือกจะถูกเพิ่มลงในส่วนเปรียบเทียบ",
-  "SecurityName": "ชื่อความปลอดภัย"
+  "SecurityName": "ชื่อความปลอดภัย",
+  "Input value must be greater than": "ค่าที่ป้อนต้องมากกว่า",
+  "Input value must be smaller than": "ค่าที่ป้อนต้องน้อยกว่า",
+  "Input value must be less than": "ค่าที่ป้อนต้องต่ำกว่า",
+  "Security": "ความปลอดภัย",
+  "L3 Allocation": "การจัดสรร L3",
+  "PAYOUT": "การจ่ายเงิน",
+  "REINVEST": "การลงทุนซ้ำ",
+  "Quick Order Configurator": "ตัวกำหนดค่าคำสั่งด่วน",
+  "Display Header": "แสดงส่วนหัว",
+  "DefaultValue": "ค่าเริ่มต้น",
+  "Aim Value": "มูลค่าเป้าหมาย",
+  "Aim Tenure": "ระยะเวลาเป้าหมาย",
+  "Return on Investment": "ผลตอบแทนจากการลงทุน",
+  "Style of Investment": "รูปแบบการลงทุน",
+  "Overvaluation": "การประเมินมูลค่าสูงเกินไป",
+  "Goal Manager": "ผู้จัดการเป้าหมาย",
+  "Overvaluation compromise value after": "ค่าประนีประนอมหลังการประเมินมูลค่าสูงเกินไป"
 }

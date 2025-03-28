@@ -844,5 +844,22 @@
   "Best Performing Funds": "Quỹ hoạt động tốt nhất",
   "If user click on the bookmark icon, then selected fund will be added on respective product watchlist.": "Nếu người dùng nhấp vào biểu tượng đánh dấu, quỹ được chọn sẽ được thêm vào danh sách theo dõi sản phẩm tương ứng.",
   "If user click on the compare icon, then selected fund will be added to Compare.": "Nếu người dùng nhấp vào biểu tượng so sánh, quỹ được chọn sẽ được thêm vào phần So sánh.",
-  "SecurityName": "Tên bảo mật"
+  "SecurityName": "Tên bảo mật",
+  "Input value must be greater than": "Giá trị đầu vào phải lớn hơn",
+  "Input value must be smaller than": "Giá trị đầu vào phải nhỏ hơn",
+  "Input value must be less than": "Giá trị đầu vào phải ít hơn",
+  "Security": "Bảo mật",
+  "L3 Allocation": "Phân bổ L3",
+  "PAYOUT": "THANH TOÁN",
+  "REINVEST": "TÁI ĐẦU TƯ",
+  "Quick Order Configurator": "Trình cấu hình đơn hàng nhanh",
+  "Display Header": "Hiển thị tiêu đề",
+  "DefaultValue": "Giá trị mặc định",
+  "Aim Value": "Giá trị mục tiêu",
+  "Aim Tenure": "Thời hạn mục tiêu",
+  "Return on Investment": "Lợi tức đầu tư",
+  "Style of Investment": "Phong cách đầu tư",
+  "Overvaluation": "Định giá quá cao",
+  "Goal Manager": "Quản lý mục tiêu",
+  "Overvaluation compromise value after": "Giá trị thỏa hiệp sau khi định giá quá cao"
 }

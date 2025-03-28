@@ -844,5 +844,22 @@
   "Best Performing Funds": "أفضل الصناديق أداءً",
   "If user click on the bookmark icon, then selected fund will be added on respective product watchlist.": "إذا نقر المستخدم على أيقونة الإشارة المرجعية، سيتم إضافة الصندوق المحدد إلى قائمة المراقبة الخاصة بالمنتج المعني.",
   "If user click on the compare icon, then selected fund will be added to Compare.": "إذا نقر المستخدم على أيقونة المقارنة، سيتم إضافة الصندوق المحدد إلى المقارنة.",
-  "SecurityName": "اسم الأمان"
+  "SecurityName": "اسم الأمان",
+  "Input value must be greater than": "يجب أن تكون القيمة المدخلة أكبر من",
+  "Input value must be smaller than": "يجب أن تكون القيمة المدخلة أصغر من",
+  "Input value must be less than": "يجب أن تكون القيمة المدخلة أقل من",
+  "Security": "الأمان",
+  "L3 Allocation": "تخصيص L3",
+  "PAYOUT": "دفع",
+  "REINVEST": "إعادة استثمار",
+  "Quick Order Configurator": "مُكوِّن الطلب السريع",
+  "Display Header": "عرض العنوان",
+  "DefaultValue": "القيمة الافتراضية",
+  "Aim Value": "قيمة الهدف",
+  "Aim Tenure": "مدة الهدف",
+  "Return on Investment": "عائد الاستثمار",
+  "Style of Investment": "أسلوب الاستثمار",
+  "Overvaluation": "التقييم الزائد",
+  "Goal Manager": "مدير الهدف",
+  "Overvaluation compromise value after": "قيمة التسوية بعد التقييم الزائد"
 }

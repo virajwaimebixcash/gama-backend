@@ -844,5 +844,22 @@
   "Best Performing Funds": "Best Performing Funds",
   "If user click on the bookmark icon, then selected fund will be added on respective product watchlist.": "If user click on the bookmark icon, then selected fund will be added on respective product watchlist.",
   "If user click on the compare icon, then selected fund will be added to Compare.": "If user click on the compare icon, then selected fund will be added to Compare.",
-  "SecurityName": "Security Name"
+  "SecurityName": "Security Name",
+  "Input value must be greater than": "Input value must be greater than",
+  "Input value must be smaller than": "Input value must be smaller than",
+  "Input value must be less than": "Input value must be less than",
+  "Security": "Security",
+  "L3 Allocation": "L3 Allocation",
+  "PAYOUT": "PAYOUT",
+  "REINVEST": "REINVEST",
+  "Quick Order Configurator": "Quick Order Configurator",
+  "Display Header": "Display Header",
+  "DefaultValue": "Default Value",
+  "Aim Value": "Aim Value",
+  "Aim Tenure": "Aim Tenure",
+  "Return on Investment": "Return on Investment",
+  "Style of Investment": "Style of Investment",
+  "Overvaluation": "Overvaluation",
+  "Goal Manager": "Goal Manager",
+  "Overvaluation compromise value after": "Overvaluation compromise value after"
 }

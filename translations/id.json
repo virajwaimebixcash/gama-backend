@@ -844,5 +844,22 @@
   "Best Performing Funds": "Reksa Dana Berkinerja Terbaik",
   "If user click on the bookmark icon, then selected fund will be added on respective product watchlist.": "Jika pengguna mengklik ikon penanda, maka dana yang dipilih akan ditambahkan ke daftar pantau produk terkait.",
   "If user click on the compare icon, then selected fund will be added to Compare.": "Jika pengguna mengklik ikon perbandingan, maka dana yang dipilih akan ditambahkan ke Perbandingan.",
-  "SecurityName": "Nama Keamanan"
+  "SecurityName": "Nama Keamanan",
+  "Input value must be greater than": "Nilai input harus lebih besar dari",
+  "Input value must be smaller than": "Nilai input harus lebih kecil dari",
+  "Input value must be less than": "Nilai input harus kurang dari",
+  "Security": "Keamanan",
+  "L3 Allocation": "Alokasi L3",
+  "PAYOUT": "PEMBAYARAN",
+  "REINVEST": "INVESTASI ULANG",
+  "Quick Order Configurator": "Konfigurator Pesanan Cepat",
+  "Display Header": "Tampilkan Header",
+  "DefaultValue": "Nilai Default",
+  "Aim Value": "Nilai Sasaran",
+  "Aim Tenure": "Jangka Waktu Sasaran",
+  "Return on Investment": "Pengembalian Investasi",
+  "Style of Investment": "Gaya Investasi",
+  "Overvaluation": "Penilaian Berlebihan",
+  "Goal Manager": "Manajer Tujuan",
+  "Overvaluation compromise value after": "Nilai kompromi setelah penilaian berlebihan"
 }
