@@ -883,5 +883,13 @@
   "Style of Investment": "รูปแบบการลงทุน",
   "Overvaluation": "การประเมินมูลค่าสูงเกินไป",
   "Goal Manager": "ผู้จัดการเป้าหมาย",
-  "Overvaluation compromise value after": "ค่าประนีประนอมหลังการประเมินมูลค่าสูงเกินไป"
+  "Overvaluation compromise value after": "ค่าประนีประนอมหลังการประเมินมูลค่าสูงเกินไป",
+  "Add to Dashboard successfully. ": "เพิ่มไปยังแดชบอร์ดสำเร็จ.",
+  "Removed Dashboard successfully. ": "ลบแดชบอร์ดสำเร็จ.",
+  "Tracking %": "เปอร์เซ็นต์การติดตาม",
+  "Error occurred": "เกิดข้อผิดพลาด",
+  "Model": "รุ่น",
+  "Four Wheeler": "รถสี่ล้อ",
+  "Marriage": "การแต่งงาน",
+  "Aim Schedule": "ตารางเป้าหมาย"
 }

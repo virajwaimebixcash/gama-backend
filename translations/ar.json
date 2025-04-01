@@ -883,5 +883,13 @@
   "Style of Investment": "أسلوب الاستثمار",
   "Overvaluation": "التقييم الزائد",
   "Goal Manager": "مدير الهدف",
-  "Overvaluation compromise value after": "قيمة التسوية بعد التقييم الزائد"
+  "Overvaluation compromise value after": "قيمة التسوية بعد التقييم الزائد",
+  "Add to Dashboard successfully. ": "تم إضافة إلى لوحة التحكم بنجاح.",
+  "Removed Dashboard successfully. ": "تم إزالة لوحة التحكم بنجاح.",
+  "Tracking %": "نسبة التتبع",
+  "Error occurred": "حدث خطأ",
+  "Model": "نموذج",
+  "Four Wheeler": "مركبة بأربع عجلات",
+  "Marriage": "زواج",
+  "Aim Schedule": "جدول الأهداف"
 }
