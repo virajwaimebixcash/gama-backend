@@ -841,6 +841,7 @@
   "Total allocation must be exactly 100%": "يجب أن يكون التخصيص الإجمالي 100٪ بالضبط",
   "Please select a child model for row": "يرجى اختيار نموذج فرعي للصف",
   "Saved Data Successfully. ": "تم حفظ البيانات بنجاح",
+  "Saved Data Successfully": "تم حفظ البيانات بنجاح",
   "Best Performing Funds": "أفضل الصناديق أداءً",
   "If user click on the bookmark icon, then selected fund will be added on respective product watchlist.": "إذا نقر المستخدم على أيقونة الإشارة المرجعية، سيتم إضافة الصندوق المحدد إلى قائمة المراقبة الخاصة بالمنتج المعني.",
   "If user click on the compare icon, then selected fund will be added to Compare.": "إذا نقر المستخدم على أيقونة المقارنة، سيتم إضافة الصندوق المحدد إلى المقارنة.",
@@ -883,5 +884,10 @@
   "Style of Investment": "أسلوب الاستثمار",
   "Overvaluation": "التقييم الزائد",
   "Goal Manager": "مدير الهدف",
-  "Overvaluation compromise value after": "قيمة التسوية بعد التقييم الزائد"
+  "Overvaluation compromise value after": "قيمة التسوية بعد التقييم الزائد",
+  "Select Securities": "اختر الأوراق المالية",
+  "Returns Since Inception": "العوائد منذ الإنشاء",
+  "Asset Class": "فئة الأصول",
+  "Vr Rating": "تصنيف Vr",
+  "Add To Model": "إضافة إلى النموذج"
 }

@@ -841,6 +841,7 @@
   "Total allocation must be exactly 100%": "Tổng phân bổ phải đúng 100%",
   "Please select a child model for row": "Vui lòng chọn mô hình con cho hàng",
   "Saved Data Successfully. ": "Lưu dữ liệu thành công",
+  "Saved Data Successfully": "Lưu dữ liệu thành công",
   "Best Performing Funds": "Quỹ hoạt động tốt nhất",
   "If user click on the bookmark icon, then selected fund will be added on respective product watchlist.": "Nếu người dùng nhấp vào biểu tượng đánh dấu, quỹ được chọn sẽ được thêm vào danh sách theo dõi sản phẩm tương ứng.",
   "If user click on the compare icon, then selected fund will be added to Compare.": "Nếu người dùng nhấp vào biểu tượng so sánh, quỹ được chọn sẽ được thêm vào phần So sánh.",
@@ -883,5 +884,10 @@
   "Style of Investment": "Phong cách đầu tư",
   "Overvaluation": "Định giá quá cao",
   "Goal Manager": "Quản lý mục tiêu",
-  "Overvaluation compromise value after": "Giá trị thỏa hiệp sau khi định giá quá cao"
+  "Overvaluation compromise value after": "Giá trị thỏa hiệp sau khi định giá quá cao",
+  "Select Securities": "Chọn Chứng Khoán",
+  "Returns Since Inception": "Lợi nhuận Kể Từ Khi Thành Lập",
+  "Asset Class": "Loại Tài Sản",
+  "Vr Rating": "Xếp Hạng Vr",
+  "Add To Model": "Thêm Vào Mô Hình"
 }
