@@ -841,6 +841,7 @@
   "Total allocation must be exactly 100%": "Total allocation must be exactly 100%",
   "Please select a child model for row": "Please select a child model for row",
   "Saved Data Successfully. ": "Saved Data Successfully",
+  "Saved Data Successfully": "Saved Data Successfully",
   "Best Performing Funds": "Best Performing Funds",
   "If user click on the bookmark icon, then selected fund will be added on respective product watchlist.": "If user click on the bookmark icon, then selected fund will be added on respective product watchlist.",
   "If user click on the compare icon, then selected fund will be added to Compare.": "If user click on the compare icon, then selected fund will be added to Compare.",
@@ -891,5 +892,10 @@
   "Model": "Model",
   "Four Wheeler": "Four Wheeler",
   "Marriage": "Marriage",
-  "Aim Schedule": "Aim Schedule"
+  "Aim Schedule": "Aim Schedule",
+  "Select Securities": "Select Securities",
+  "Returns Since Inception": "Returns Since Inception",
+  "Asset Class": "Asset Class",
+  "Vr Rating": "Vr Rating",
+  "Add To Model": "Add To Model"
 }

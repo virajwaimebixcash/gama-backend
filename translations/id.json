@@ -841,6 +841,7 @@
   "Total allocation must be exactly 100%": "Total alokasi harus tepat 100%",
   "Please select a child model for row": "Harap pilih model anak untuk baris",
   "Saved Data Successfully. ": "Data berhasil disimpan",
+  "Saved Data Successfully": "Data berhasil disimpan",
   "Best Performing Funds": "Reksa Dana Berkinerja Terbaik",
   "If user click on the bookmark icon, then selected fund will be added on respective product watchlist.": "Jika pengguna mengklik ikon penanda, maka dana yang dipilih akan ditambahkan ke daftar pantau produk terkait.",
   "If user click on the compare icon, then selected fund will be added to Compare.": "Jika pengguna mengklik ikon perbandingan, maka dana yang dipilih akan ditambahkan ke Perbandingan.",
@@ -891,5 +892,10 @@
   "Model": "Model",
   "Four Wheeler": "Mobil roda empat",
   "Marriage": "Pernikahan",
-  "Aim Schedule": "Jadwal Tujuan"
+  "Aim Schedule": "Jadwal Tujuan",
+  "Select Securities": "Pilih Sekuritas",
+  "Returns Since Inception": "Pengembalian Sejak Awal",
+  "Asset Class": "Kelas Aset",
+  "Vr Rating": "Peringkat Vr",
+  "Add To Model": "Tambahkan ke Model"
 }

@@ -841,6 +841,7 @@
   "Total allocation must be exactly 100%": "การจัดสรรทั้งหมดต้องเป็น 100% พอดี",
   "Please select a child model for row": "โปรดเลือกโมเดลย่อยสำหรับแถว",
   "Saved Data Successfully. ": "บันทึกข้อมูลเรียบร้อยแล้ว",
+  "Saved Data Successfully": "บันทึกข้อมูลเรียบร้อยแล้ว",
   "Best Performing Funds": "กองทุนที่มีผลการดำเนินงานดีที่สุด",
   "If user click on the bookmark icon, then selected fund will be added on respective product watchlist.": "หากผู้ใช้คลิกที่ไอคอนบุ๊กมาร์ก กองทุนที่เลือกจะถูกเพิ่มลงในรายการติดตามสินค้าที่เกี่ยวข้อง",
   "If user click on the compare icon, then selected fund will be added to Compare.": "หากผู้ใช้คลิกที่ไอคอนเปรียบเทียบ กองทุนที่เลือกจะถูกเพิ่มลงในส่วนเปรียบเทียบ",
@@ -891,5 +892,10 @@
   "Model": "รุ่น",
   "Four Wheeler": "รถสี่ล้อ",
   "Marriage": "การแต่งงาน",
-  "Aim Schedule": "ตารางเป้าหมาย"
+  "Aim Schedule": "ตารางเป้าหมาย",
+  "Select Securities": "เลือกหลักทรัพย์",
+  "Returns Since Inception": "ผลตอบแทนตั้งแต่เริ่มต้น",
+  "Asset Class": "ประเภทสินทรัพย์",
+  "Vr Rating": "อันดับ Vr",
+  "Add To Model": "เพิ่มในโมเดล"
 }
