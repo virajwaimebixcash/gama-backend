@@ -897,5 +897,17 @@
   "Returns Since Inception": "Pengembalian Sejak Awal",
   "Asset Class": "Kelas Aset",
   "Vr Rating": "Peringkat Vr",
-  "Add To Model": "Tambahkan ke Model"
+  "Add To Model": "Tambahkan ke Model",
+  "View Result": "Lihat Hasil",
+  "Your Result": "Hasil Anda",
+  "Name of the Client": "Nama Klien",
+  "Risk Profile Assessed": "Profil Risiko Dinilai",
+  "Date of Risk Assessment": "Tanggal Penilaian Risiko",
+  "Final Score": "Skor Akhir",
+  "Summary of Risk Profile": "Ringkasan Profil Risiko",
+  "CRR Expiry Date": "Tanggal Kedaluwarsa CRR",
+  "Client Sign Off Date": "Tanggal Persetujuan Klien",
+  "CONSERVATIVE": "Konservatif",
+  "Reassess Risk Profile": "Tinjau Ulang Profil Risiko",
+  "A risk profile can be defined as the level of risk an individual or organization is willing to accept or tolerate when making decision. Risk is essential to everyday life and understanding risk is crucial to making informed decisions about everything from investments to personal health.": "Profil risiko dapat didefinisikan sebagai tingkat risiko yang bersedia diterima atau ditoleransi oleh individu atau organisasi saat membuat keputusan. Risiko adalah bagian penting dalam kehidupan sehari-hari, dan memahami risiko sangat penting untuk membuat keputusan yang tepat, mulai dari investasi hingga kesehatan pribadi."
 }

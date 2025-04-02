@@ -897,5 +897,17 @@
   "Returns Since Inception": "Returns Since Inception",
   "Asset Class": "Asset Class",
   "Vr Rating": "Vr Rating",
-  "Add To Model": "Add To Model"
+  "Add To Model": "Add To Model",
+  "View Result": "View Result",
+  "Your Result": "Your Result",
+  "Name of the Client": "Name of the Client",
+  "Risk Profile Assessed": "Risk Profile Assessed",
+  "Date of Risk Assessment": "Date of Risk Assessment",
+  "Final Score": "Final Score",
+  "Summary of Risk Profile": "Summary of Risk Profile",
+  "CRR Expiry Date": "CRR Expiry Date",
+  "Client Sign Off Date": "Client Sign Off Date",
+  "CONSERVATIVE": "CONSERVATIVE",
+  "Reassess Risk Profile": "Reassess Risk Profile",
+  "A risk profile can be defined as the level of risk an individual or organization is willing to accept or tolerate when making decision. Risk is essential to everyday life and understanding risk is crucial to making informed decisions about everything from investments to personal health.": "A risk profile can be defined as the level of risk an individual or organization is willing to accept or tolerate when making decisions. Risk is essential to everyday life and understanding risk is crucial to making informed decisions about everything from investments to personal health."
 }

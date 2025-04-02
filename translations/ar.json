@@ -897,5 +897,17 @@
   "Returns Since Inception": "العوائد منذ الإنشاء",
   "Asset Class": "فئة الأصول",
   "Vr Rating": "تصنيف Vr",
-  "Add To Model": "إضافة إلى النموذج"
+  "Add To Model": "إضافة إلى النموذج",
+  "View Result": "عرض النتيجة",
+  "Your Result": "نتيجتك",
+  "Name of the Client": "اسم العميل",
+  "Risk Profile Assessed": "تقييم ملف المخاطر",
+  "Date of Risk Assessment": "تاريخ تقييم المخاطر",
+  "Final Score": "النتيجة النهائية",
+  "Summary of Risk Profile": "ملخص ملف المخاطر",
+  "CRR Expiry Date": "تاريخ انتهاء CRR",
+  "Client Sign Off Date": "تاريخ توقيع العميل",
+  "CONSERVATIVE": "تحفظي",
+  "Reassess Risk Profile": "إعادة تقييم ملف المخاطر",
+  "A risk profile can be defined as the level of risk an individual or organization is willing to accept or tolerate when making decision. Risk is essential to everyday life and understanding risk is crucial to making informed decisions about everything from investments to personal health.": "يمكن تعريف ملف المخاطر على أنه مستوى المخاطر التي يكون الفرد أو المنظمة على استعداد لقبولها أو تحملها عند اتخاذ القرارات. المخاطر ضرورية للحياة اليومية، وفهم المخاطر أمر بالغ الأهمية لاتخاذ قرارات مستنيرة حول كل شيء من الاستثمارات إلى الصحة الشخصية."
 }
