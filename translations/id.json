@@ -910,5 +910,10 @@
   "CONSERVATIVE": "Konservatif",
   "Reassess Risk Profile": "Tinjau Ulang Profil Risiko",
   "A risk profile can be defined as the level of risk an individual or organization is willing to accept or tolerate when making decision. Risk is essential to everyday life and understanding risk is crucial to making informed decisions about everything from investments to personal health.": "Profil risiko dapat didefinisikan sebagai tingkat risiko yang bersedia diterima atau ditoleransi oleh individu atau organisasi saat membuat keputusan. Risiko adalah bagian penting dalam kehidupan sehari-hari, dan memahami risiko sangat penting untuk membuat keputusan yang tepat, mulai dari investasi hingga kesehatan pribadi.",
-  "Select language": "Pilih bahasa"
+  "Select language": "Pilih bahasa",
+  "Order placement failure, please try again later!": "Gagal menempatkan pesanan, silakan coba lagi nanti!",
+  "Fund has been successfully added to your cart": "Dana telah berhasil ditambahkan ke keranjang Anda",
+  "Click on cart icon to confirm order": "Klik ikon keranjang untuk mengonfirmasi pesanan",
+  "Order placed successfully.": "Pesanan berhasil ditempatkan.",
+  "Order Failed.Purchase Amount should be in multiple of(500)": "Pesanan Gagal. Jumlah Pembelian harus kelipatan dari (500)"
 }

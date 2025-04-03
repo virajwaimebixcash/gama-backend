@@ -910,5 +910,10 @@
   "CONSERVATIVE": "CONSERVATIVE",
   "Reassess Risk Profile": "Reassess Risk Profile",
   "A risk profile can be defined as the level of risk an individual or organization is willing to accept or tolerate when making decision. Risk is essential to everyday life and understanding risk is crucial to making informed decisions about everything from investments to personal health.": "A risk profile can be defined as the level of risk an individual or organization is willing to accept or tolerate when making decisions. Risk is essential to everyday life and understanding risk is crucial to making informed decisions about everything from investments to personal health.",
-  "Select language": "Select language"
+  "Select language": "Select language",
+  "Order placement failure, please try again later!": "Order placement failure, please try again later!",
+  "Fund has been successfully added to your cart": "Fund has been successfully added to your cart",
+  "Click on cart icon to confirm order": "Click on cart icon to confirm order",
+  "Order placed successfully.": "Order placed successfully.",
+  "Order Failed.Purchase Amount should be in multiple of(500)": "Order Failed. Purchase Amount should be in multiple of (500)"
 }

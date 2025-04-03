@@ -910,5 +910,10 @@
   "CONSERVATIVE": "تحفظي",
   "Reassess Risk Profile": "إعادة تقييم ملف المخاطر",
   "A risk profile can be defined as the level of risk an individual or organization is willing to accept or tolerate when making decision. Risk is essential to everyday life and understanding risk is crucial to making informed decisions about everything from investments to personal health.": "يمكن تعريف ملف المخاطر على أنه مستوى المخاطر التي يكون الفرد أو المنظمة على استعداد لقبولها أو تحملها عند اتخاذ القرارات. المخاطر ضرورية للحياة اليومية، وفهم المخاطر أمر بالغ الأهمية لاتخاذ قرارات مستنيرة حول كل شيء من الاستثمارات إلى الصحة الشخصية.",
-  "Select language": "اختر اللغة"
+  "Select language": "اختر اللغة",
+  "Order placement failure, please try again later!": "فشل في تقديم الطلب، يرجى المحاولة لاحقًا!",
+  "Fund has been successfully added to your cart": "تم إضافة الرصيد بنجاح إلى سلة التسوق الخاصة بك",
+  "Click on cart icon to confirm order": "انقر على أيقونة السلة لتأكيد الطلب",
+  "Order placed successfully.": "تم تقديم الطلب بنجاح.",
+  "Order Failed.Purchase Amount should be in multiple of(500)": "فشل الطلب. يجب أن يكون مبلغ الشراء مضاعفًا للـ 500."
 }
