@@ -883,6 +883,7 @@
   "Return on Investment": "عائد الاستثمار",
   "Style of Investment": "أسلوب الاستثمار",
   "Overvaluation": "التقييم الزائد",
+  "Overvaluation ": "التقييم الزائد",
   "Goal Manager": "مدير الهدف",
   "Overvaluation compromise value after": "قيمة التسوية بعد التقييم الزائد",
   "Add to Dashboard successfully. ": "تم إضافة إلى لوحة التحكم بنجاح.",
@@ -910,5 +911,13 @@
   "CONSERVATIVE": "تحفظي",
   "Reassess Risk Profile": "إعادة تقييم ملف المخاطر",
   "A risk profile can be defined as the level of risk an individual or organization is willing to accept or tolerate when making decision. Risk is essential to everyday life and understanding risk is crucial to making informed decisions about everything from investments to personal health.": "يمكن تعريف ملف المخاطر على أنه مستوى المخاطر التي يكون الفرد أو المنظمة على استعداد لقبولها أو تحملها عند اتخاذ القرارات. المخاطر ضرورية للحياة اليومية، وفهم المخاطر أمر بالغ الأهمية لاتخاذ قرارات مستنيرة حول كل شيء من الاستثمارات إلى الصحة الشخصية.",
-  "Select language": "اختر اللغة"
+  "Select language": "اختر اللغة",
+  "Records already exist for provided configuration.": "السجلات موجودة بالفعل للإعداد المقدم.",
+  "Please enter a default value": "يرجى إدخال قيمة افتراضية",
+  "Please select at least one option from Product Class, Product Sub Class, Order Type, and Portfolio Type!": "يرجى اختيار خيار واحد على الأقل من فئة المنتج، الفئة الفرعية للمنتج، نوع الطلب، ونوع المحفظة!",
+  "Enter search text": "أدخل نص البحث",
+  "Account Name": "اسم الحساب",
+  "Type of Aim": "نوع الهدف",
+  "Repeated Period": "الفترة المتكررة",
+  "Repeated Tally": "العدد المتكرر"
 }
