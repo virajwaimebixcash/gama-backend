@@ -924,5 +924,21 @@
   "Fund has been successfully added to your cart": "เงินทุนได้ถูกเพิ่มลงในตะกร้าของคุณเรียบร้อยแล้ว",
   "Click on cart icon to confirm order": "คลิกที่ไอคอนตะกร้าเพื่อยืนยันคำสั่งซื้อ",
   "Order placed successfully.": "การสั่งซื้อสำเร็จแล้ว.",
-  "Order Failed.Purchase Amount should be in multiple of(500)": "คำสั่งซื้อล้มเหลว. จำนวนการซื้อควรเป็นจำนวนที่คูณของ (500)"
+  "Order Failed.Purchase Amount should be in multiple of(500)": "คำสั่งซื้อล้มเหลว. จำนวนการซื้อควรเป็นจำนวนที่คูณของ (500)",
+  "SIP Frequency": "ความถี่ SIP",
+  "SIP Date": "วันที่ SIP",
+  "SIP Tenor Basis": "ฐานระยะเวลา SIP",
+  "SIP Period ": "ระยะเวลา SIP",
+  "SIP End Date": "วันที่สิ้นสุด SIP",
+  "No Cart Item Found": "ไม่พบสินค้าที่อยู่ในตะกร้า",
+  "No Content": "ไม่มีเนื้อหา",
+  "platform": "แพลตฟอร์ม",
+  "Order Source": "แหล่งที่มาของคำสั่ง",
+  "Sub broker": "โบรกเกอร์ย่อย",
+  "physical form number": "หมายเลขฟอร์มทางกายภาพ",
+  "opt for  step": "เลือกขั้นตอน",
+  "Step Up By": "เพิ่มขึ้นโดย",
+  "Step Up Frequency": "ความถี่ในการเพิ่มขึ้น",
+  "Step Up Value": "มูลค่าการเพิ่มขึ้น",
+  "Communication Address": "ที่อยู่การติดต่อ"
 }

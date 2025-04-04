@@ -924,5 +924,21 @@
   "Fund has been successfully added to your cart": "Fund has been successfully added to your cart",
   "Click on cart icon to confirm order": "Click on cart icon to confirm order",
   "Order placed successfully.": "Order placed successfully.",
-  "Order Failed.Purchase Amount should be in multiple of(500)": "Order Failed. Purchase Amount should be in multiple of (500)"
+  "Order Failed.Purchase Amount should be in multiple of(500)": "Order Failed. Purchase Amount should be in multiple of (500)",
+  "SIP Frequency": "SIP Frequency",
+  "SIP Date": "SIP Date",
+  "SIP Tenor Basis": "SIP Tenor Basis",
+  "SIP Period ": "SIP Period",
+  "SIP End Date": "SIP End Date",
+  "No Cart Item Found": "No Cart Item Found",
+  "No Content": "No Content",
+  "platform": "platform",
+  "Order Source": "Order Source",
+  "Sub broker": "Sub broker",
+  "physical form number": "physical form number",
+  "opt for step": "opt for step",
+  "Step Up By": "Step Up By",
+  "Step Up Frequency": "Step Up Frequency",
+  "Step Up Value": "Step Up Value",
+  "Communication Address": "Communication Address"
 }

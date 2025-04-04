@@ -924,5 +924,21 @@
   "Fund has been successfully added to your cart": "Quỹ đã được thêm thành công vào giỏ hàng của bạn",
   "Click on cart icon to confirm order": "Nhấp vào biểu tượng giỏ hàng để xác nhận đơn hàng",
   "Order placed successfully.": "Đặt đơn hàng thành công.",
-  "Order Failed.Purchase Amount should be in multiple of(500)": "Đặt hàng thất bại. Số tiền mua phải là bội số của (500)"
+  "Order Failed.Purchase Amount should be in multiple of(500)": "Đặt hàng thất bại. Số tiền mua phải là bội số của (500)",
+  "SIP Frequency": "Tần suất SIP",
+  "SIP Date": "Ngày SIP",
+  "SIP Tenor Basis": "Cơ sở kỳ hạn SIP",
+  "SIP Period ": "Kỳ SIP",
+  "SIP End Date": "Ngày kết thúc SIP",
+  "No Cart Item Found": "Không tìm thấy mục trong giỏ hàng",
+  "No Content": "Không có nội dung",
+  "platform": "nền tảng",
+  "Order Source": "Nguồn đơn hàng",
+  "Sub broker": "Môi giới phụ",
+  "physical form number": "số mẫu vật lý",
+  "opt for step": "chọn bước",
+  "Step Up By": "Tăng lên bởi",
+  "Step Up Frequency": "Tần suất tăng lên",
+  "Step Up Value": "Giá trị tăng lên",
+  "Communication Address": "Địa chỉ liên lạc"
 }

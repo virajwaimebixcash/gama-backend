@@ -924,5 +924,21 @@
   "Fund has been successfully added to your cart": "Dana telah berhasil ditambahkan ke keranjang Anda",
   "Click on cart icon to confirm order": "Klik ikon keranjang untuk mengonfirmasi pesanan",
   "Order placed successfully.": "Pesanan berhasil ditempatkan.",
-  "Order Failed.Purchase Amount should be in multiple of(500)": "Pesanan Gagal. Jumlah Pembelian harus kelipatan dari (500)"
+  "Order Failed.Purchase Amount should be in multiple of(500)": "Pesanan Gagal. Jumlah Pembelian harus kelipatan dari (500)",
+  "SIP Frequency": "Frekuensi SIP",
+  "SIP Date": "Tanggal SIP",
+  "SIP Tenor Basis": "Dasar Tenor SIP",
+  "SIP Period ": "Periode SIP",
+  "SIP End Date": "Tanggal Akhir SIP",
+  "No Cart Item Found": "Tidak Ada Item Keranjang Ditemukan",
+  "No Content": "Tidak Ada Konten",
+  "platform": "platform",
+  "Order Source": "Sumber Pesanan",
+  "Sub broker": "Sub broker",
+  "physical form number": "nomor formulir fisik",
+  "opt for step": "pilih langkah",
+  "Step Up By": "Tingkatkan dengan",
+  "Step Up Frequency": "Frekuensi Peningkatan",
+  "Step Up Value": "Nilai Peningkatan",
+  "Communication Address": "Alamat Komunikasi"
 }
