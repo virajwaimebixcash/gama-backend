@@ -924,5 +924,16 @@
   "Fund has been successfully added to your cart": "Quỹ đã được thêm thành công vào giỏ hàng của bạn",
   "Click on cart icon to confirm order": "Nhấp vào biểu tượng giỏ hàng để xác nhận đơn hàng",
   "Order placed successfully.": "Đặt đơn hàng thành công.",
-  "Order Failed.Purchase Amount should be in multiple of(500)": "Đặt hàng thất bại. Số tiền mua phải là bội số của (500)"
+  "Order Failed.Purchase Amount should be in multiple of(500)": "Đặt hàng thất bại. Số tiền mua phải là bội số của (500)",
+  "No Content": "Không có nội dung",
+  "No Cart Item Found": "Không tìm thấy sản phẩm trong giỏ hàng",
+  "Min. SIP Order Value": "Giá trị đơn hàng SIP tối thiểu",
+  "SIP Order Value required": "Yêu cầu giá trị đơn hàng SIP",
+  "Lumpsum Order Value required": "Yêu cầu giá trị đơn hàng một lần",
+  "SIP Date is required": "Ngày SIP là bắt buộc",
+  "Full Redemption": "Chuộc lại toàn bộ",
+  "Partial Units": "Đơn vị một phần",
+  "Partial Amount": "Số tiền một phần",
+  "Order Units": "Đơn vị đặt hàng",
+  "REDEMPTION": "Chuyển nhượng"
 }

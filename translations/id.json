@@ -924,5 +924,16 @@
   "Fund has been successfully added to your cart": "Dana telah berhasil ditambahkan ke keranjang Anda",
   "Click on cart icon to confirm order": "Klik ikon keranjang untuk mengonfirmasi pesanan",
   "Order placed successfully.": "Pesanan berhasil ditempatkan.",
-  "Order Failed.Purchase Amount should be in multiple of(500)": "Pesanan Gagal. Jumlah Pembelian harus kelipatan dari (500)"
+  "Order Failed.Purchase Amount should be in multiple of(500)": "Pesanan Gagal. Jumlah Pembelian harus kelipatan dari (500)",
+  "No Content": "Tidak Ada Konten",
+  "No Cart Item Found": "Item Keranjang Tidak Ditemukan",
+  "Min. SIP Order Value": "Nilai Pesanan SIP Minimum",
+  "SIP Order Value required": "Nilai Pesanan SIP diperlukan",
+  "Lumpsum Order Value required": "Nilai Pesanan Lumpsum diperlukan",
+  "SIP Date is required": "Tanggal SIP diperlukan",
+  "Full Redemption": "Penebusan Penuh",
+  "Partial Units": "Unit Parsial",
+  "Partial Amount": "Jumlah Parsial",
+  "Order Units": "Unit Pesanan",
+  "REDEMPTION": "Penebusan"
 }

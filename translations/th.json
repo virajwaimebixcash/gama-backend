@@ -924,5 +924,16 @@
   "Fund has been successfully added to your cart": "เงินทุนได้ถูกเพิ่มลงในตะกร้าของคุณเรียบร้อยแล้ว",
   "Click on cart icon to confirm order": "คลิกที่ไอคอนตะกร้าเพื่อยืนยันคำสั่งซื้อ",
   "Order placed successfully.": "การสั่งซื้อสำเร็จแล้ว.",
-  "Order Failed.Purchase Amount should be in multiple of(500)": "คำสั่งซื้อล้มเหลว. จำนวนการซื้อควรเป็นจำนวนที่คูณของ (500)"
+  "Order Failed.Purchase Amount should be in multiple of(500)": "คำสั่งซื้อล้มเหลว. จำนวนการซื้อควรเป็นจำนวนที่คูณของ (500)",
+  "No Content": "ไม่มีเนื้อหา",
+  "No Cart Item Found": "ไม่พบรายการในรถเข็น",
+  "Min. SIP Order Value": "มูลค่าการสั่งซื้อ SIP ขั้นต่ำ",
+  "SIP Order Value required": "ต้องกรอกมูลค่าการสั่งซื้อ SIP",
+  "Lumpsum Order Value required": "ต้องกรอกมูลค่าการสั่งซื้อแบบก้อนเดียว",
+  "SIP Date is required": "ต้องระบุวันที่ SIP",
+  "Full Redemption": "การไถ่ถอนเต็มจำนวน",
+  "Partial Units": "หน่วยบางส่วน",
+  "Partial Amount": "จำนวนเงินบางส่วน",
+  "Order Units": "หน่วยคำสั่งซื้อ",
+  "REDEMPTION": "การไถ่ถอน"
 }

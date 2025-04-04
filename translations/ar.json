@@ -924,5 +924,16 @@
   "Fund has been successfully added to your cart": "تم إضافة الرصيد بنجاح إلى سلة التسوق الخاصة بك",
   "Click on cart icon to confirm order": "انقر على أيقونة السلة لتأكيد الطلب",
   "Order placed successfully.": "تم تقديم الطلب بنجاح.",
-  "Order Failed.Purchase Amount should be in multiple of(500)": "فشل الطلب. يجب أن يكون مبلغ الشراء مضاعفًا للـ 500."
+  "Order Failed.Purchase Amount should be in multiple of(500)": "فشل الطلب. يجب أن يكون مبلغ الشراء مضاعفًا للـ 500.",
+  "No Content": "لا يوجد محتوى",
+  "No Cart Item Found": "لم يتم العثور على عناصر في السلة",
+  "Min. SIP Order Value": "الحد الأدنى لقيمة طلب SIP",
+  "SIP Order Value required": "مطلوب قيمة طلب SIP",
+  "Lumpsum Order Value required": "مطلوب قيمة الطلب الإجمالية",
+  "SIP Date is required": "تاريخ SIP مطلوب",
+  "Full Redemption": "استرداد كامل",
+  "Partial Units": "وحدات جزئية",
+  "Partial Amount": "مبلغ جزئي",
+  "Order Units": "وحدات الطلب",
+  "REDEMPTION": "الاسترداد"
 }

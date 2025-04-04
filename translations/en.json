@@ -924,5 +924,17 @@
   "Fund has been successfully added to your cart": "Fund has been successfully added to your cart",
   "Click on cart icon to confirm order": "Click on cart icon to confirm order",
   "Order placed successfully.": "Order placed successfully.",
-  "Order Failed.Purchase Amount should be in multiple of(500)": "Order Failed. Purchase Amount should be in multiple of (500)"
+  "Order Failed.Purchase Amount should be in multiple of(500)": "Order Failed. Purchase Amount should be in multiple of (500)",
+  "No Content": "No Content",
+  "No Cart Item Found": "No Cart Item Found",
+  "Min. SIP Order Value": "Min. SIP Order Value",
+  "SIP Order Value required": "SIP Order Value required",
+  "Lumpsum Order Value required": "Lumpsum Order Value required",
+  "SIP Date is required": "SIP Date is required",
+  "Order by": "Order by",
+  "Full Redemption": "Full Redemption",
+  "Partial Units": "Partial Units",
+  "Partial Amount": "Partial Amount",
+  "Order Units": "Order Units",
+  "REDEMPTION": "REDEMPTION"
 }
