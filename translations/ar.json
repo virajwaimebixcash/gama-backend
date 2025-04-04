@@ -930,8 +930,6 @@
   "SIP Tenor Basis": "أساس مدة SIP",
   "SIP Period ": "فترة SIP",
   "SIP End Date": "تاريخ نهاية SIP",
-  "No Cart Item Found": "لم يتم العثور على عناصر في السلة",
-  "No Content": "لا يوجد محتوى",
   "platform": "المنصة",
   "Order Source": "مصدر الطلب",
   "Sub broker": "الوسيط الفرعي",
@@ -940,5 +938,16 @@
   "Step Up By": "زيادة بمقدار",
   "Step Up Frequency": "تكرار الزيادة",
   "Step Up Value": "قيمة الزيادة",
-  "Communication Address": "عنوان التواصل"
+  "Communication Address": "عنوان التواصل",
+  "No Content": "لا يوجد محتوى",
+  "No Cart Item Found": "لم يتم العثور على عناصر في السلة",
+  "Min. SIP Order Value": "الحد الأدنى لقيمة طلب SIP",
+  "SIP Order Value required": "مطلوب قيمة طلب SIP",
+  "Lumpsum Order Value required": "مطلوب قيمة الطلب الإجمالية",
+  "SIP Date is required": "تاريخ SIP مطلوب",
+  "Full Redemption": "استرداد كامل",
+  "Partial Units": "وحدات جزئية",
+  "Partial Amount": "مبلغ جزئي",
+  "Order Units": "وحدات الطلب",
+  "REDEMPTION": "الاسترداد"
 }

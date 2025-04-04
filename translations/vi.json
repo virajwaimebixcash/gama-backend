@@ -930,8 +930,6 @@
   "SIP Tenor Basis": "Cơ sở kỳ hạn SIP",
   "SIP Period ": "Kỳ SIP",
   "SIP End Date": "Ngày kết thúc SIP",
-  "No Cart Item Found": "Không tìm thấy mục trong giỏ hàng",
-  "No Content": "Không có nội dung",
   "platform": "nền tảng",
   "Order Source": "Nguồn đơn hàng",
   "Sub broker": "Môi giới phụ",
@@ -940,5 +938,16 @@
   "Step Up By": "Tăng lên bởi",
   "Step Up Frequency": "Tần suất tăng lên",
   "Step Up Value": "Giá trị tăng lên",
-  "Communication Address": "Địa chỉ liên lạc"
+  "Communication Address": "Địa chỉ liên lạc",
+  "No Content": "Không có nội dung",
+  "No Cart Item Found": "Không tìm thấy sản phẩm trong giỏ hàng",
+  "Min. SIP Order Value": "Giá trị đơn hàng SIP tối thiểu",
+  "SIP Order Value required": "Yêu cầu giá trị đơn hàng SIP",
+  "Lumpsum Order Value required": "Yêu cầu giá trị đơn hàng một lần",
+  "SIP Date is required": "Ngày SIP là bắt buộc",
+  "Full Redemption": "Chuộc lại toàn bộ",
+  "Partial Units": "Đơn vị một phần",
+  "Partial Amount": "Số tiền một phần",
+  "Order Units": "Đơn vị đặt hàng",
+  "REDEMPTION": "Chuyển nhượng"
 }

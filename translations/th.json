@@ -930,8 +930,6 @@
   "SIP Tenor Basis": "ฐานระยะเวลา SIP",
   "SIP Period ": "ระยะเวลา SIP",
   "SIP End Date": "วันที่สิ้นสุด SIP",
-  "No Cart Item Found": "ไม่พบสินค้าที่อยู่ในตะกร้า",
-  "No Content": "ไม่มีเนื้อหา",
   "platform": "แพลตฟอร์ม",
   "Order Source": "แหล่งที่มาของคำสั่ง",
   "Sub broker": "โบรกเกอร์ย่อย",
@@ -940,5 +938,16 @@
   "Step Up By": "เพิ่มขึ้นโดย",
   "Step Up Frequency": "ความถี่ในการเพิ่มขึ้น",
   "Step Up Value": "มูลค่าการเพิ่มขึ้น",
-  "Communication Address": "ที่อยู่การติดต่อ"
+  "Communication Address": "ที่อยู่การติดต่อ",
+  "No Content": "ไม่มีเนื้อหา",
+  "No Cart Item Found": "ไม่พบรายการในรถเข็น",
+  "Min. SIP Order Value": "มูลค่าการสั่งซื้อ SIP ขั้นต่ำ",
+  "SIP Order Value required": "ต้องกรอกมูลค่าการสั่งซื้อ SIP",
+  "Lumpsum Order Value required": "ต้องกรอกมูลค่าการสั่งซื้อแบบก้อนเดียว",
+  "SIP Date is required": "ต้องระบุวันที่ SIP",
+  "Full Redemption": "การไถ่ถอนเต็มจำนวน",
+  "Partial Units": "หน่วยบางส่วน",
+  "Partial Amount": "จำนวนเงินบางส่วน",
+  "Order Units": "หน่วยคำสั่งซื้อ",
+  "REDEMPTION": "การไถ่ถอน"
 }

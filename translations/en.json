@@ -930,8 +930,6 @@
   "SIP Tenor Basis": "SIP Tenor Basis",
   "SIP Period ": "SIP Period",
   "SIP End Date": "SIP End Date",
-  "No Cart Item Found": "No Cart Item Found",
-  "No Content": "No Content",
   "platform": "platform",
   "Order Source": "Order Source",
   "Sub broker": "Sub broker",
@@ -940,5 +938,17 @@
   "Step Up By": "Step Up By",
   "Step Up Frequency": "Step Up Frequency",
   "Step Up Value": "Step Up Value",
-  "Communication Address": "Communication Address"
+  "Communication Address": "Communication Address",
+  "No Content": "No Content",
+  "No Cart Item Found": "No Cart Item Found",
+  "Min. SIP Order Value": "Min. SIP Order Value",
+  "SIP Order Value required": "SIP Order Value required",
+  "Lumpsum Order Value required": "Lumpsum Order Value required",
+  "SIP Date is required": "SIP Date is required",
+  "Order by": "Order by",
+  "Full Redemption": "Full Redemption",
+  "Partial Units": "Partial Units",
+  "Partial Amount": "Partial Amount",
+  "Order Units": "Order Units",
+  "REDEMPTION": "REDEMPTION"
 }

@@ -930,8 +930,6 @@
   "SIP Tenor Basis": "Dasar Tenor SIP",
   "SIP Period ": "Periode SIP",
   "SIP End Date": "Tanggal Akhir SIP",
-  "No Cart Item Found": "Tidak Ada Item Keranjang Ditemukan",
-  "No Content": "Tidak Ada Konten",
   "platform": "platform",
   "Order Source": "Sumber Pesanan",
   "Sub broker": "Sub broker",
@@ -940,5 +938,16 @@
   "Step Up By": "Tingkatkan dengan",
   "Step Up Frequency": "Frekuensi Peningkatan",
   "Step Up Value": "Nilai Peningkatan",
-  "Communication Address": "Alamat Komunikasi"
+  "Communication Address": "Alamat Komunikasi",
+  "No Content": "Tidak Ada Konten",
+  "No Cart Item Found": "Item Keranjang Tidak Ditemukan",
+  "Min. SIP Order Value": "Nilai Pesanan SIP Minimum",
+  "SIP Order Value required": "Nilai Pesanan SIP diperlukan",
+  "Lumpsum Order Value required": "Nilai Pesanan Lumpsum diperlukan",
+  "SIP Date is required": "Tanggal SIP diperlukan",
+  "Full Redemption": "Penebusan Penuh",
+  "Partial Units": "Unit Parsial",
+  "Partial Amount": "Jumlah Parsial",
+  "Order Units": "Unit Pesanan",
+  "REDEMPTION": "Penebusan"
 }
