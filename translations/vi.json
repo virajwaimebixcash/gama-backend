@@ -935,5 +935,18 @@
   "Partial Units": "Đơn vị một phần",
   "Partial Amount": "Số tiền một phần",
   "Order Units": "Đơn vị đặt hàng",
-  "REDEMPTION": "Chuyển nhượng"
+  "REDEMPTION": "Chuyển nhượng",
+  "Order by": "Sắp xếp theo",
+  "Update Successful": "Cập nhật thành công",
+  "Submission Successful": "Gửi thành công",
+  "The data has been updated successfully.": "Dữ liệu đã được cập nhật thành công.",
+  "The data has been submitted successfully.": "Dữ liệu đã được gửi thành công.",
+  "Appointee Details": "Chi tiết người được bổ nhiệm",
+  "Name": "Tên",
+  "Age": "Tuổi",
+  "PAN Card": "Thẻ PAN",
+  "Relationship": "Mối quan hệ",
+  "Percentage": "Phần trăm",
+  "Order Sourced by": "Đặt hàng bởi",
+  "STP On": "Bật STP"
 }

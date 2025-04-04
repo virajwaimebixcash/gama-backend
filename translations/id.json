@@ -935,5 +935,18 @@
   "Partial Units": "Unit Parsial",
   "Partial Amount": "Jumlah Parsial",
   "Order Units": "Unit Pesanan",
-  "REDEMPTION": "Penebusan"
+  "REDEMPTION": "Penebusan",
+  "Order by": "Urutkan Berdasarkan",
+  "Update Successful": "Pembaruan Berhasil",
+  "Submission Successful": "Pengiriman Berhasil",
+  "The data has been updated successfully.": "Data telah berhasil diperbarui.",
+  "The data has been submitted successfully.": "Data telah berhasil dikirim.",
+  "Appointee Details": "Detail Penunjukan",
+  "Name": "Nama",
+  "Age": "Usia",
+  "PAN Card": "Kartu PAN",
+  "Relationship": "Hubungan",
+  "Percentage": "Persentase",
+  "Order Sourced by": "Pesanan Sumber Oleh",
+  "STP On": "STP Aktif"
 }

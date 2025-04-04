@@ -935,5 +935,18 @@
   "Partial Units": "وحدات جزئية",
   "Partial Amount": "مبلغ جزئي",
   "Order Units": "وحدات الطلب",
-  "REDEMPTION": "الاسترداد"
+  "REDEMPTION": "الاسترداد",
+  "Order by": "ترتيب حسب",
+  "Update Successful": "تم التحديث بنجاح",
+  "Submission Successful": "تم الإرسال بنجاح",
+  "The data has been updated successfully.": "تم تحديث البيانات بنجاح.",
+  "The data has been submitted successfully.": "تم إرسال البيانات بنجاح.",
+  "Appointee Details": "تفاصيل المعين",
+  "Name": "الاسم",
+  "Age": "العمر",
+  "PAN Card": "بطاقة PAN",
+  "Relationship": "العلاقة",
+  "Percentage": "النسبة المئوية",
+  "Order Sourced by": "تم الحصول على الطلب بواسطة",
+  "STP On": "STP تشغيل"
 }

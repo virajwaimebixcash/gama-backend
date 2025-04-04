@@ -936,5 +936,17 @@
   "Partial Units": "Partial Units",
   "Partial Amount": "Partial Amount",
   "Order Units": "Order Units",
-  "REDEMPTION": "REDEMPTION"
+  "REDEMPTION": "REDEMPTION",
+  "Update Successful": "Update Successful",
+  "Submission Successful": "Submission Successful",
+  "The data has been updated successfully.": "The data has been updated successfully.",
+  "The data has been submitted successfully.": "The data has been submitted successfully.",
+  "Appointee Details": "Appointee Details",
+  "Name": "Name",
+  "Age": "Age",
+  "PAN Card": "PAN Card",
+  "Relationship": "Relationship",
+  "Percentage": "Percentage",
+  "Order Sourced by": "Order Sourced by",
+  "STP On": "STP On"
 }

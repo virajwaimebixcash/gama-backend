@@ -935,5 +935,18 @@
   "Partial Units": "หน่วยบางส่วน",
   "Partial Amount": "จำนวนเงินบางส่วน",
   "Order Units": "หน่วยคำสั่งซื้อ",
-  "REDEMPTION": "การไถ่ถอน"
+  "REDEMPTION": "การไถ่ถอน",
+  "Order by": "เรียงตาม",
+  "Update Successful": "อัปเดตสำเร็จ",
+  "Submission Successful": "ส่งข้อมูลสำเร็จ",
+  "The data has been updated successfully.": "ข้อมูลได้รับการอัปเดตเรียบร้อยแล้ว",
+  "The data has been submitted successfully.": "ข้อมูลถูกส่งเรียบร้อยแล้ว",
+  "Appointee Details": "รายละเอียดผู้ได้รับการแต่งตั้ง",
+  "Name": "ชื่อ",
+  "Age": "อายุ",
+  "PAN Card": "บัตร PAN",
+  "Relationship": "ความสัมพันธ์",
+  "Percentage": "เปอร์เซ็นต์",
+  "Order Sourced by": "คำสั่งซื้อที่มาจาก",
+  "STP On": "เปิด STP"
 }
