@@ -962,5 +962,7 @@
   "Relationship": "ความสัมพันธ์",
   "Percentage": "เปอร์เซ็นต์",
   "Order Sourced by": "คำสั่งซื้อที่มาจาก",
-  "STP On": "เปิด STP"
+  "STP On": "เปิด STP",
+  "Portfolio": "พอร์ตโฟลิโอ",
+  "Rebalancing": "การปรับสมดุล"
 }
