@@ -968,5 +968,8 @@
   "First Name": "ชื่อจริง",
   "Last Name": "นามสกุล",
   "Male": "ชาย",
-  "Female": "หญิง"
+  "Female": "หญิง",
+  "Guardian Relationship": "ความสัมพันธ์ของผู้ปกครอง",
+  "Guardian Age": "อายุผู้ปกครอง",
+  "Guardian Address": "ที่อยู่ของผู้ปกครอง"
 }

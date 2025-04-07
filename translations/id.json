@@ -968,5 +968,8 @@
   "First Name": "Nama Depan",
   "Last Name": "Nama Belakang",
   "Male": "Laki-laki",
-  "Female": "Perempuan"
+  "Female": "Perempuan",
+  "Guardian Relationship": "Hubungan Wali",
+  "Guardian Age": "Usia Wali",
+  "Guardian Address": "Alamat Wali"
 }

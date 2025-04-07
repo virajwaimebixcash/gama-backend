@@ -968,5 +968,8 @@
   "First Name": "Tên",
   "Last Name": "Họ",
   "Male": "Nam",
-  "Female": "Nữ"
+  "Female": "Nữ",
+  "Guardian Relationship": "Mối quan hệ người giám hộ",
+  "Guardian Age": "Tuổi người giám hộ",
+  "Guardian Address": "Địa chỉ người giám hộ"
 }
