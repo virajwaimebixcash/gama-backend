@@ -973,5 +973,15 @@
   "Guardian Age": "Tuổi người giám hộ",
   "Guardian Address": "Địa chỉ người giám hộ",
   "Choose File": "Chọn tệp",
-  "Transaction Fee": "Phí giao dịch"
+  "Transaction Fee": "Phí giao dịch",
+  "SWP Frequency": "Tần suất SWP",
+  "SWP Date": "Ngày SWP",
+  "SWP Tenor Basis": "Cơ sở kỳ hạn SWP",
+  "SWP Period": "Thời gian SWP",
+  "SWP End Date": "Ngày kết thúc SWP",
+  "Guardian Name": "Tên người giám hộ",
+  "Guardian Details": "Chi tiết người giám hộ",
+  "Nominee Address": "Địa chỉ người thụ hưởng",
+  "Nominee Share": "Tỷ lệ người thụ hưởng",
+  "Date of Birth": "Ngày sinh"
 }

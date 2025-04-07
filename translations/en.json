@@ -973,5 +973,15 @@
   "Guardian Age": "Guardian Age",
   "Guardian Address": "Guardian Address",
   "Choose File": "Choose File",
-  "Transaction Fee": "Transaction Fee"
+  "Transaction Fee": "Transaction Fee",
+  "SWP Frequency": "SWP Frequency",
+  "SWP Date": "SWP Date",
+  "SWP Tenor Basis": "SWP Tenor Basis",
+  "SWP Period": "SWP Period",
+  "SWP End Date": "SWP End Date",
+  "Guardian Name": "Guardian Name",
+  "Guardian Details": "Guardian Details",
+  "Nominee Address": "Nominee Address",
+  "Nominee Share": "Nominee Share",
+  "Date of Birth": "Date of Birth"
 }

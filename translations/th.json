@@ -973,5 +973,15 @@
   "Guardian Age": "อายุผู้ปกครอง",
   "Guardian Address": "ที่อยู่ของผู้ปกครอง",
   "Choose File": "เลือกไฟล์",
-  "Transaction Fee": "ค่าธรรมเนียมการทำรายการ"
+  "Transaction Fee": "ค่าธรรมเนียมการทำรายการ",
+  "SWP Frequency": "ความถี่ของ SWP",
+  "SWP Date": "วันที่ SWP",
+  "SWP Tenor Basis": "พื้นฐานระยะเวลา SWP",
+  "SWP Period": "ระยะเวลา SWP",
+  "SWP End Date": "วันสิ้นสุด SWP",
+  "Guardian Name": "ชื่อผู้ปกครอง",
+  "Guardian Details": "รายละเอียดผู้ปกครอง",
+  "Nominee Address": "ที่อยู่ของผู้รับผลประโยชน์",
+  "Nominee Share": "สัดส่วนผู้รับผลประโยชน์",
+  "Date of Birth": "วันเกิด"
 }

@@ -973,5 +973,15 @@
   "Guardian Age": "عمر الوصي",
   "Guardian Address": "عنوان الوصي",
   "Choose File": "اختر ملفًا",
-  "Transaction Fee": "رسوم المعاملة"
+  "Transaction Fee": "رسوم المعاملة",
+  "SWP Frequency": "تكرار SWP",
+  "SWP Date": "تاريخ SWP",
+  "SWP Tenor Basis": "أساس مدة SWP",
+  "SWP Period": "فترة SWP",
+  "SWP End Date": "تاريخ انتهاء SWP",
+  "Guardian Name": "اسم الوصي",
+  "Guardian Details": "تفاصيل الوصي",
+  "Nominee Address": "عنوان المرشح",
+  "Nominee Share": "حصة المرشح",
+  "Date of Birth": "تاريخ الميلاد"
 }

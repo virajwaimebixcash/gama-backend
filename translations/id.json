@@ -973,5 +973,15 @@
   "Guardian Age": "Usia Wali",
   "Guardian Address": "Alamat Wali",
   "Choose File": "Pilih Berkas",
-  "Transaction Fee": "Biaya Transaksi"
+  "Transaction Fee": "Biaya Transaksi",
+  "SWP Frequency": "Frekuensi SWP",
+  "SWP Date": "Tanggal SWP",
+  "SWP Tenor Basis": "Dasar Tenor SWP",
+  "SWP Period": "Periode SWP",
+  "SWP End Date": "Tanggal Akhir SWP",
+  "Guardian Name": "Nama Wali",
+  "Guardian Details": "Detail Wali",
+  "Nominee Address": "Alamat Penerima",
+  "Nominee Share": "Bagian Penerima",
+  "Date of Birth": "Tanggal Lahir"
 }
