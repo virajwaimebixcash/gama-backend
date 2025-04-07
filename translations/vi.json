@@ -962,5 +962,9 @@
   "Relationship": "Mối quan hệ",
   "Percentage": "Phần trăm",
   "Order Sourced by": "Đặt hàng bởi",
-  "STP On": "Bật STP"
+  "STP On": "Bật STP",
+  "First Name": "Tên",
+  "Last Name": "Họ",
+  "Male": "Nam",
+  "Female": "Nữ"
 }

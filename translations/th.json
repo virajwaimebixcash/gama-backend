@@ -962,5 +962,9 @@
   "Relationship": "ความสัมพันธ์",
   "Percentage": "เปอร์เซ็นต์",
   "Order Sourced by": "คำสั่งซื้อที่มาจาก",
-  "STP On": "เปิด STP"
+  "STP On": "เปิด STP",
+  "First Name": "ชื่อจริง",
+  "Last Name": "นามสกุล",
+  "Male": "ชาย",
+  "Female": "หญิง"
 }

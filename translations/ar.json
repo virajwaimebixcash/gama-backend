@@ -962,5 +962,9 @@
   "Relationship": "العلاقة",
   "Percentage": "النسبة المئوية",
   "Order Sourced by": "تم الحصول على الطلب بواسطة",
-  "STP On": "STP تشغيل"
+  "STP On": "STP تشغيل",
+  "First Name": "الاسم الأول",
+  "Last Name": "اسم العائلة",
+  "Male": "ذكر",
+  "Female": "أنثى"
 }

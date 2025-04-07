@@ -962,5 +962,9 @@
   "Relationship": "Relationship",
   "Percentage": "Percentage",
   "Order Sourced by": "Order Sourced by",
-  "STP On": "STP On"
+  "STP On": "STP On",
+  "First Name": "First Name",
+  "Last Name": "Last Name",
+  "Male": "Male",
+  "Female": "Female"
 }
