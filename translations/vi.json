@@ -983,5 +983,7 @@
   "Guardian Details": "Chi tiết người giám hộ",
   "Nominee Address": "Địa chỉ người thụ hưởng",
   "Nominee Share": "Tỷ lệ người thụ hưởng",
-  "Date of Birth": "Ngày sinh"
+  "Date of Birth": "Ngày sinh",
+  "Amount Invested (Rs)": "Số tiền đã đầu tư (₹)",
+  "Absolute Gain/Loss(%)": "Lãi/Lỗ tuyệt đối (%)"
 }

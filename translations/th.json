@@ -983,5 +983,7 @@
   "Guardian Details": "รายละเอียดผู้ปกครอง",
   "Nominee Address": "ที่อยู่ของผู้รับผลประโยชน์",
   "Nominee Share": "สัดส่วนผู้รับผลประโยชน์",
-  "Date of Birth": "วันเกิด"
+  "Date of Birth": "วันเกิด",
+  "Amount Invested (Rs)": "จำนวนเงินลงทุน (₹)",
+  "Absolute Gain/Loss(%)": "กำไร/ขาดทุนสัมบูรณ์ (%)"
 }

@@ -983,5 +983,7 @@
   "Guardian Details": "Guardian Details",
   "Nominee Address": "Nominee Address",
   "Nominee Share": "Nominee Share",
-  "Date of Birth": "Date of Birth"
+  "Date of Birth": "Date of Birth",
+  "Amount Invested (Rs)": "Amount Invested (Rs)",
+  "Absolute Gain/Loss(%)": "Absolute Gain/Loss(%)"
 }
