@@ -969,6 +969,9 @@
   "Last Name": "Last Name",
   "Male": "Male",
   "Female": "Female",
+  "Guardian Relationship": "Guardian Relationship",
+  "Guardian Age": "Guardian Age",
+  "Guardian Address": "Guardian Address",
   "Choose File": "Choose File",
   "Transaction Fee": "Transaction Fee"
 }

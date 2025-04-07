@@ -969,6 +969,9 @@
   "Last Name": "Nama Belakang",
   "Male": "Laki-laki",
   "Female": "Perempuan",
+  "Guardian Relationship": "Hubungan Wali",
+  "Guardian Age": "Usia Wali",
+  "Guardian Address": "Alamat Wali",
   "Choose File": "Pilih Berkas",
   "Transaction Fee": "Biaya Transaksi"
 }

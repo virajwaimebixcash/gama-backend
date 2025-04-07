@@ -969,6 +969,9 @@
   "Last Name": "اسم العائلة",
   "Male": "ذكر",
   "Female": "أنثى",
+  "Guardian Relationship": "علاقة الوصي",
+  "Guardian Age": "عمر الوصي",
+  "Guardian Address": "عنوان الوصي",
   "Choose File": "اختر ملفًا",
   "Transaction Fee": "رسوم المعاملة"
 }

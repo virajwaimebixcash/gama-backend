@@ -969,6 +969,9 @@
   "Last Name": "นามสกุล",
   "Male": "ชาย",
   "Female": "หญิง",
+  "Guardian Relationship": "ความสัมพันธ์ของผู้ปกครอง",
+  "Guardian Age": "อายุผู้ปกครอง",
+  "Guardian Address": "ที่อยู่ของผู้ปกครอง",
   "Choose File": "เลือกไฟล์",
   "Transaction Fee": "ค่าธรรมเนียมการทำรายการ"
 }
