@@ -968,5 +968,7 @@
   "First Name": "الاسم الأول",
   "Last Name": "اسم العائلة",
   "Male": "ذكر",
-  "Female": "أنثى"
+  "Female": "أنثى",
+  "Choose File": "اختر ملفًا",
+  "Transaction Fee": "رسوم المعاملة"
 }

@@ -968,5 +968,7 @@
   "First Name": "Nama Depan",
   "Last Name": "Nama Belakang",
   "Male": "Laki-laki",
-  "Female": "Perempuan"
+  "Female": "Perempuan",
+  "Choose File": "Pilih Berkas",
+  "Transaction Fee": "Biaya Transaksi"
 }

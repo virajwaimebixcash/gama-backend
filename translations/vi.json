@@ -968,5 +968,7 @@
   "First Name": "Tên",
   "Last Name": "Họ",
   "Male": "Nam",
-  "Female": "Nữ"
+  "Female": "Nữ",
+  "Choose File": "Chọn tệp",
+  "Transaction Fee": "Phí giao dịch"
 }

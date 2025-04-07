@@ -968,5 +968,7 @@
   "First Name": "First Name",
   "Last Name": "Last Name",
   "Male": "Male",
-  "Female": "Female"
+  "Female": "Female",
+  "Choose File": "Choose File",
+  "Transaction Fee": "Transaction Fee"
 }

@@ -968,5 +968,7 @@
   "First Name": "ชื่อจริง",
   "Last Name": "นามสกุล",
   "Male": "ชาย",
-  "Female": "หญิง"
+  "Female": "หญิง",
+  "Choose File": "เลือกไฟล์",
+  "Transaction Fee": "ค่าธรรมเนียมการทำรายการ"
 }
