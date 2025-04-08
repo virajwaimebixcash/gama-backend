@@ -912,7 +912,7 @@
   "Client Sign Off Date": "Petsa ng Pagpirma ng Kliyente",
   "CONSERVATIVE": "Konserbatibo",
   "Reassess Risk Profile": "Muling Suriin ang Profile ng Panganib",
-  "A risk profile can be defined as...": "Ang profile ng panganib ay maaaring ipakahulugan bilang antas ng panganib na handang tanggapin ng isang tao o organisasyon kapag gumagawa ng desisyon. Mahalaga ang panganib sa araw-araw na buhay at ang pag-unawa rito ay mahalaga upang makagawa ng matalinong desisyon mula sa pamumuhunan hanggang sa kalusugan.",
+  "A risk profile can be defined as the level of risk an individual or organization is willing to accept or tolerate when making decision. Risk is essential to everyday life and understanding risk is crucial to making informed decisions about everything from investments to personal health.": "Ang profile ng panganib ay maaaring ipakahulugan bilang antas ng panganib na handang tanggapin ng isang tao o organisasyon kapag gumagawa ng desisyon. Mahalaga ang panganib sa araw-araw na buhay at ang pag-unawa rito ay mahalaga upang makagawa ng matalinong desisyon mula sa pamumuhunan hanggang sa kalusugan.",
   "Select language": "Pumili ng Wika",
   "Records already exist for provided configuration.": "May umiiral nang mga tala para sa ibinigay na konfigurasyon.",
   "Please enter a default value": "Mangyaring maglagay ng default na halaga",
@@ -987,5 +987,6 @@
   "Nominee Share": "Bahagi ng Nominado",
   "Date of Birth": "Araw ng Kapanganakan",
   "Amount Invested (Rs)": "Halagang Ininvest (₱)",
-  "Absolute Gain/Loss(%)": "Kabuuang Kita/Lugi (%)"
+  "Absolute Gain/Loss(%)": "Kabuuang Kita/Lugi (%)",
+  "Sign Up": "Magrehistro"
 }
