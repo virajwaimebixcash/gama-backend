@@ -567,6 +567,8 @@
   "Pause": "หยุดชั่วคราว",
   "N/A": "ไม่สามารถใช้ได้",
   "Are you sure you want to Skip SIP?": "คุณแน่ใจหรือไม่ว่าต้องการข้าม SIP?",
+  "Are you sure you want to Skip SWP?": "คุณแน่ใจหรือไม่ว่าต้องการข้าม SWP?",
+  "Are you sure you want to Skip STP?": "คุณแน่ใจหรือไม่ว่าต้องการข้าม STP?",
   "Frequency": "ความถี่",
   "Start Date": "วันที่เริ่มต้น",
   "End Date": "วันที่สิ้นสุด",
