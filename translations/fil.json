@@ -988,5 +988,7 @@
   "Date of Birth": "Araw ng Kapanganakan",
   "Amount Invested (Rs)": "Halagang Ininvest (₱)",
   "Absolute Gain/Loss(%)": "Kabuuang Kita/Lugi (%)",
-  "Sign Up": "Magrehistro"
+  "Sign Up": "Magrehistro",
+  "Duplicate Record for EntityConfig Data, Please insert new data.": "May dobleng tala para sa EntityConfig Data, mangyaring maglagay ng bagong data.",
+  "Please select at least one option from the filters!": "Pumili ng kahit isang opsyon mula sa mga filter!"
 }
