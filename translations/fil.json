@@ -989,8 +989,9 @@
   "Amount Invested (Rs)": "Halagang Ininvest (₱)",
   "Absolute Gain/Loss(%)": "Kabuuang Kita/Lugi (%)",
   "Sign Up": "Magrehistro",
-  "Duplicate Record for EntityConfig Data, Please insert new data.": "May dobleng tala para sa EntityConfig Data, mangyaring maglagay ng bagong data.",
+  "Duplicate Record for EntityConfig Data, Please insert new data.": "Mayroong dobleng tala sa datos ng pagsasaayos ng entity, mangyaring magpasok ng bagong datos.",
   "Please select at least one option from the filters!": "Pumili ng kahit isang opsyon mula sa mga filter!",
+  "Session expired due to inactivity": "Nag-expire ang session dahil sa kawalan ng aktibidad",
   "Hidden": "Nakatago",
   "Delete row": "Tanggalin ang hilera"
 }
