@@ -990,5 +990,7 @@
   "Absolute Gain/Loss(%)": "Absolute Gain/Loss(%)",
   "Sign Up": "Sign Up",
   "Duplicate Record for EntityConfig Data, Please insert new data.": "Duplicate Record for EntityConfig Data, Please insert new data.",
-  "Please select at least one option from the filters!": "Please select at least one option from the filters!"
+  "Please select at least one option from the filters!": "Please select at least one option from the filters!",
+  "Hidden": "Hidden",
+  "Delete row": "Delete row"
 }

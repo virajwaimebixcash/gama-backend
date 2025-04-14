@@ -990,5 +990,7 @@
   "Absolute Gain/Loss(%)": "Keuntungan/Kerugian Absolut (%)",
   "Sign Up": "Daftar",
   "Duplicate Record for EntityConfig Data, Please insert new data.": "Data EntityConfig sudah ada, silakan masukkan data baru.",
-  "Please select at least one option from the filters!": "Silakan pilih setidaknya satu opsi dari filter!"
+  "Please select at least one option from the filters!": "Silakan pilih setidaknya satu opsi dari filter!",
+  "Hidden": "Tersembunyi",
+  "Delete row": "Hapus baris"
 }

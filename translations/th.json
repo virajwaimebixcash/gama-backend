@@ -990,5 +990,7 @@
   "Absolute Gain/Loss(%)": "กำไร/ขาดทุนสัมบูรณ์ (%)",
   "Sign Up": "สมัครสมาชิก",
   "Duplicate Record for EntityConfig Data, Please insert new data.": "มีข้อมูลซ้ำใน EntityConfig กรุณาใส่ข้อมูลใหม่.",
-  "Please select at least one option from the filters!": "กรุณาเลือกอย่างน้อยหนึ่งตัวเลือกจากตัวกรอง!"
+  "Please select at least one option from the filters!": "กรุณาเลือกอย่างน้อยหนึ่งตัวเลือกจากตัวกรอง!",
+  "Hidden": "ซ่อน",
+  "Delete row": "ลบแถว"
 }

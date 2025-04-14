@@ -990,5 +990,7 @@
   "Absolute Gain/Loss(%)": "الربح/الخسارة المطلق (%)",
   "Sign Up": "التسجيل",
   "Duplicate Record for EntityConfig Data, Please insert new data.": "سجل مكرر لبيانات EntityConfig، يرجى إدخال بيانات جديدة.",
-  "Please select at least one option from the filters!": "يرجى تحديد خيار واحد على الأقل من عوامل التصفية!"
+  "Please select at least one option from the filters!": "يرجى تحديد خيار واحد على الأقل من عوامل التصفية!",
+  "Hidden": "مخفي",
+  "Delete row": "حذف الصف"
 }
