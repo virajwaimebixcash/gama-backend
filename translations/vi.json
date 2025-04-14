@@ -990,5 +990,6 @@
   "Absolute Gain/Loss(%)": "Lãi/Lỗ tuyệt đối (%)",
   "Sign Up": "Đăng ký",
   "Duplicate Record for EntityConfig Data, Please insert new data.": "Bản ghi trùng lặp cho dữ liệu EntityConfig, vui lòng nhập dữ liệu mới.",
-  "Please select at least one option from the filters!": "Vui lòng chọn ít nhất một tùy chọn từ các bộ lọc!"
+  "Please select at least one option from the filters!": "Vui lòng chọn ít nhất một tùy chọn từ các bộ lọc!",
+  "Session expired due to inactivity": "Phiên đã hết hạn do không hoạt động"
 }
